@@ -1,0 +1,867 @@
+Family ID,Created at,Survey number,Worker,Gender,Country of birth,People in household,Race,Hispanic,Housing situation,Rent vs. Own,Child mortality,Disability,Automobile,Veteran Status,LGBTQ,Early Childhood Education,Number of People in Household with GED or HS Diploma,Highest level,Highest level in household,Annual income,Primary economic activity:,Assistance:
+18960,2021-11-16,1º,ialba,Female,United States of America,3,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,Less than High School,Less than High School,,Employed Full-Time,Food stamps
+18960,2022-05-09,2º,vbryant,Female,United States of America,3,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,19287,Employed Full-Time,"Food stamps,WIC"
+36175,2022-10-07,1º,kmacedo,Female,United States of America,3,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,Four-Year College Degree,Four-Year College Degree,0,Retired,Disability
+15335,2021-10-06,1º,avanegasvelasquez,Female,United States of America,5,White,Yes,Single Family House,Own my home,Yes,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,WIC
+15335,2022-05-05,2º,avanegasvelasquez,Female,United States of America,5,,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,WIC
+19457,2022-12-08,1º,yliaogomez,Female,United States of America,3,Other,No,Apartment/Condominium,Rent my home,No,No,No,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,,Employed Part-Time,WIC
+19457,2023-06-13,2º,yliaogomez,Female,United States of America,3,,,,,,,,,,,,,,,,
+171938,2022-10-13,1º,alopez,Female,United States of America,5,White,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,35000,Employed Full-Time,WIC
+36703,2022-12-02,1º,mespino,Female,United States of America,3,White,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,6,Two-Year College Degree,Two-Year College Degree,,Employed Full-Time,"Food stamps,Other"
+36703,2023-03-28,2º,mespino,Female,United States of America,3,White,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,20000,Employed Full-Time,Food stamps
+32134,2022-10-11,1º,avanegasvelasquez,Female,United States of America,3,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,25000,Employed Full-Time,None
+32134,2021-11-10,1º,kmacedo,Female,United States of America,6,Other,Yes,Trailer/Mobile Home,Live with parents,No,No,Yes,No,No,I don’t know,1,High School/GED,High School/GED,30000,Employed Full-Time,None
+32134,2022-05-23,2º,avanegasvelasquez,Female,United States of America,6,Other,Yes,Trailer/Mobile Home,Live with parents,No,Yes,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,Other
+36877,2022-12-09,1º,mespino,Female,United States of America,2,White,Yes,Prefer not to say,Prefer not to say,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,Unemployed,Other
+36877,2023-04-03,2º,mespino,Female,United States of America,2,,,,,,,,,,,,,,,,
+167288,2022-03-09,1º,swilliamson,Female,United States of America,2,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,Graduate Degree,Four-Year College Degree,15000,Employed Part-Time,"Food stamps,WIC"
+167288,2022-05-05,2º,swilliamson,Female,United States of America,2,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,No,1,Four-Year College Degree,Four-Year College Degree,20000,Employed Part-Time,"Food stamps,WIC"
+31079,2021-10-12,1º,mmarquez1,Female,El Salvador,3,Other,Yes,Casa,Own my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,,Employed Full-Time,WIC
+31079,2022-05-04,2º,mmarquez1,Female,El Salvador,3,,Yes,Prefer not to say,Own my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,,Employed Full-Time,"WIC,Other"
+151404,2023-05-03,1º,tmcduffie,Female,United States of America,6,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,No,0,Less than High School,Less than High School,40000,Employed Part-Time,Food stamps
+123456,2022-11-30,1º,yliaogomez,Female,United States of America,3,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,,Employed Full-Time,"Food stamps,WIC"
+170698,2023-04-03,1º,mmassey,Female,United States of America,4,,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,,
+21946,2022-09-29,1º,mespino,Female,El Salvador,5,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,Employed Full-Time,Food stamps
+21946,2023-04-18,2º,mespino,Female,El Salvador,5,Other,No,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,,High School/GED,High School/GED,,Other,
+34908,2022-10-04,1º,kmacedo,Female,United States of America,6,Other,Yes,Trailer/Mobile Home,Live with another family,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,0,Unemployed,Food stamps
+19029,2022-12-19,1º,jdeleon,Female,United States of America,7,,No,Single Family House,Own my home,No,No,Yes,No,No,Yes,2,Two-Year College Degree,Two-Year College Degree,25000,Employed Full-Time,Food stamps
+19029,2023-04-24,2º,yliaogomez,Female,United States of America,7,Black or African American,,,,,,,,,,,,,,,
+23812,2022-05-11,1º,njaen,Female,United States of America,4,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,Less than High School,Less than High School,25966,Other,Food stamps
+23812,2021-11-10,1º,ialba,Female,El Salvador,4,White,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,"Employed Full-Time,Stay-at-Home Caregiver",Food stamps
+23812,2022-12-09,2º,kmacedo,Female,United States of America,5,Other,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,18550,"Employed Full-Time,Unemployed","Food stamps,WIC"
+23812,2023-03-30,3º,kmacedo,Female,United States of America,5,Other,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,"Employed Full-Time,Unemployed","WIC,Food stamps"
+35506,2022-11-29,1º,mespino,Female,United States of America,4,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Unemployed,"Food stamps,WIC,Other"
+35506,2023-04-05,2º,mespino,Female,United States of America,4,Black or African American,No,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,,,,,,,Food stamps
+15743,2021-12-17,1º,vbryant,Female,United States of America,4,Black or African American,No,Apartment/Condominium,Rent my home,No,No,No,No,No,Yes,1,High School/GED,High School/GED,7403,Employed Full-Time,"Food stamps,Other"
+15743,2022-05-03,2º,vbryant,Female,United States of America,4,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,7403,Employed Part-Time,"Food stamps,WIC"
+3541,2021-11-09,1º,mespino,Female,United States of America,5,White,No,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Not applicable,2,High School/GED,High School/GED,,"Unemployed,Employed Full-Time","Food stamps,WIC,Other"
+3541,2022-05-06,2º,mespino,Female,United States of America,5,,,,,,,,,,,,,,,,
+33788,2021-12-09,1º,mespino,Female,United States of America,3,White,No,Trailer/Mobile Home,Live with parents,No,No,Yes,No,No,Not applicable,1,High School/GED,High School/GED,,Employed Full-Time,"Food stamps,WIC"
+33788,2022-05-06,2º,mespino,Female,United States of America,3,White,No,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,"Food stamps,WIC"
+19786,2022-12-08,1º,jdeleon,Female,United States of America,4,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,None
+19786,2023-04-24,2º,yliaogomez,Female,United States of America,2,Black or African American,No,Apartment/Condominium,,No,No,Yes,No,Yes,Yes,1,High School/GED,High School/GED,,Employed Part-Time,Food stamps
+37002,2023-01-26,1º,mespino,Female,United States of America,3,White,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,2,Two-Year College Degree,Two-Year College Degree,,Employed Full-Time,"Food stamps,Other"
+37002,2023-04-06,2º,mespino,Female,United States of America,3,White,No,,,,,,,,,,,,,Employed Full-Time,Food stamps
+34973,2021-11-11,1º,vbryant,Female,United States of America,2,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,12762,Unemployed,Food stamps
+34973,2022-05-04,2º,njaen,Female,United States of America,2,Black or African American,No,Single Family House,Rent my home,No,No,Yes,,No,Yes,1,High School/GED,High School/GED,12762,Other,Food stamps
+33572,2022-10-12,1º,dgomezserrano,Female,United States of America,1,White,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,Stay-at-Home Caregiver,WIC
+19771,2022-11-21,1º,kmacedo,Female,United States of America,6,Black or African American,No,Single Family House,Live with parents,No,No,No,No,No,No,1,High School/GED,High School/GED,,Employed Part-Time,None
+19771,2023-05-10,2º,kmacedo,Female,United States of America,6,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,,Less than High School,Less than High School,,Unemployed,Food stamps
+161701,2022-11-29,1º,yliaogomez,Female,United States of America,5,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,3,High School/GED,High School/GED,,Employed Full-Time,Food stamps
+161701,2023-04-25,2º,yliaogomez,Female,United States of America,5,,,,,,,,,,,,,,,,
+32393,2022-12-08,1º,njaen,Female,United States of America,4,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,16989,Employed Full-Time,"Food stamps,WIC"
+165456,2021-11-10,1º,njaen,Female,United States of America,7,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,Less than High School,High School/GED,10023,Employed Part-Time,WIC
+165456,2022-05-03,2º,njaen,Female,United States of America,7,Other,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,Food stamps
+66527,2022-12-08,1º,yliaogomez,Female,United States of America,7,White,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,Employed Part-Time,Food stamps
+66527,2023-06-29,2º,yliaogomez,Female,United States of America,7,,,,,,,,,,,,,,,,
+36729,2022-11-15,1º,jdeleon,Female,United States of America,4,Other,Yes,Trailer/Mobile Home,Rent to Own,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Part-Time,"Food stamps,WIC,Other"
+36729,2023-04-24,2º,yliaogomez,Female,United States of America,4,,,,,,,,,,,,,,,,
+36415,2022-10-12,1º,dgomezserrano,Female,United States of America,1,White,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,Prefer not to say,No,0,Less than High School,Less than High School,,Employed Full-Time,WIC
+166933,2022-11-28,1º,yliaogomez,Female,United States of America,3,White,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Part-Time,Food stamps
+32857,2023-01-05,1º,kmacedo,Female,United States of America,3,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,Prefer not to say,Yes,1,Two-Year College Degree,Two-Year College Degree,0,Employed Full-Time,Food stamps
+17914,2021-11-15,1º,mespino,Female,United States of America,6,White,Yes,Single Family House,Own my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,40000,"Stay-at-Home Caregiver,Employed Full-Time","Food stamps,WIC"
+17914,2022-05-06,2º,mespino,Female,United States of America,6,Other,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,,,,,,In School,
+36971,2022-11-18,1º,kmacedo,Female,United States of America,3,"Black or African American,Other",Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,Yes,Yes,1,High School/GED,High School/GED,0,Employed Full-Time,"Food stamps,WIC"
+37211,2022-11-09,1º,snguyen,Female,Mexico,4,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,"Employed Full-Time,Stay-at-Home Caregiver","Food stamps,WIC"
+30970,2021-11-11,1º,njaen,Female,United States of America,5,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,28176,Other,"Food stamps,WIC"
+30970,2022-05-04,2º,njaen,Female,United States of America,5,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Other,Food stamps
+30970,2023-02-13,3º,njaen,Female,United States of America,5,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Employed Full-Time,"WIC,Food stamps"
+30970,2023-04-24,4º,njaen,Female,United States of America,5,,,,,,,,,,,,,,,,
+35570,2022-11-29,1º,kmacedo,Female,United States of America,2,White,No,Single Family House,Live with parents,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Employed Full-Time,Food stamps
+35570,2023-05-09,2º,kmacedo,Female,United States of America,2,White,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,,High School/GED,High School/GED,,Employed Full-Time,Food stamps
+32216,2021-11-22,1º,agarcia4,Female,United States of America,4,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Unemployed,"Food stamps,WIC"
+32216,2022-05-05,2º,agarcia4,Female,United States of America,4,White,Yes,Apartment/Condominium,Own my home,No,No,Yes,No,No,,,,,,Unemployed,None
+147140,2023-01-27,1º,mespino,Female,United States of America,3,Other,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,"Employed Full-Time,Stay-at-Home Caregiver",None
+35254,2021-11-10,1º,nanderson,Female,United States of America,3,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,10000,Employed Part-Time,Food stamps
+35254,2022-05-03,2º,nanderson,Female,United States of America,3,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,10000,Employed Part-Time,Food stamps
+21974,2021-10-20,1º,nanderson,Female,United States of America,4,White,No,Single Family House,Rent my home,No,Prefer not to say,Yes,No,No,Yes,0,High School/GED,High School/GED,1200,"Employed Full-Time,Other",
+21974,2022-05-05,2º,nanderson,Female,United States of America,4,White,No,Single Family House,Rent my home,No,Prefer not to say,Yes,No,No,Yes,0,High School/GED,High School/GED,1200,"Employed Full-Time,Other",
+33761,2021-11-11,1º,njaen,Female,United States of America,3,White,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Other,"Food stamps,WIC"
+33761,2022-05-05,2º,njaen,Female,United States of America,3,White,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Other,Food stamps
+161750,2022-03-29,1º,alopez,Female,United States of America,7,White,Yes,Single Family House,Own my home,No,No,Yes,No,No,Yes,1,Less than High School,High School/GED,33000,Employed Full-Time,Food stamps
+161750,2022-05-05,2º,alopez,Female,United States of America,7,White,Yes,Single Family House,Own my home,No,No,Yes,No,No,Yes,,High School/GED,High School/GED,,Employed Full-Time,Food stamps
+37364,2023-01-25,1º,mespino,Female,United States of America,5,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,2,Two-Year College Degree,Two-Year College Degree,,Unemployed,"Food stamps,WIC,Other"
+37364,2023-04-21,2º,mespino,Female,United States of America,5,,,,,,,,,,,,,,,,
+35499,2022-07-06,1º,mespino,Female,United States of America,2,Black or African American,No,,,,,,,,,,,,,,
+35499,2022-07-06,2º,mespino,Female,United States of America,2,,,,,,,,,,,,,,,,
+13927,2022-11-10,1º,snguyen,Female,United States of America,8,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,High School/GED,,Employed Full-Time,"Food stamps,WIC"
+13927,2023-06-29,2º,snguyen,Female,United States of America,8,,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,SI,1,High School/GED,Less than High School,34000,,
+13927,2022-07-06,1º,mespino,Female,United States of America,7,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,,Employed Full-Time,"Other,Food stamps"
+13927,2022-07-06,2º,mespino,Female,United States of America,7,,,,,,,,,,,,,,,,
+36947,2022-09-01,1º,kmacedo,Female,United States of America,4,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,2,Two-Year College Degree,Two-Year College Degree,,Other,
+36947,2023-06-12,2º,kmacedo,Female,United States of America,4,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,,"Employed Full-Time,Unemployed",None
+167915,2022-07-07,1º,yliaogomez,Male,United States of America,3,White,No,Single Family House,Own my home,No,No,Yes,Yes,Yes,Yes,2,Four-Year College Degree,Four-Year College Degree,,Employed Full-Time,None
+167915,2023-06-20,2º,yliaogomez,Male,United States of America,3,,,,,,,,,,,,,,,,
+12776,2022-02-09,1º,vbryant,Female,United States of America,5,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,No,No,No,Yes,1,High School/GED,High School/GED,8840,Unemployed,"Food stamps,WIC"
+12776,2022-05-05,2º,alopez,Female,United States of America,5,White,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,,High School/GED,High School/GED,,Employed Full-Time,Food stamps
+25019,2021-11-03,1º,nanderson,Female,United States of America,5,Black or African American,No,Single Family House,Own my home,Yes,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Part-Time,Food stamps
+25019,2022-05-03,2º,nanderson,Female,United States of America,5,Black or African American,No,Single Family House,Own my home,Yes,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Part-Time,Food stamps
+35384,2021-10-14,1º,nanderson,Female,United States of America,4,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,Two-Year College Degree,2500,Employed Full-Time,"Food stamps,WIC"
+35384,2022-05-05,2º,nanderson,Female,United States of America,4,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,Two-Year College Degree,,Employed Full-Time,"Food stamps,WIC"
+35384,2022-10-28,3º,kmacedo,Female,United States of America,4,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,19691,Employed Full-Time,WIC
+35384,2023-03-24,4º,kmacedo,Female,United States of America,4,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,WIC
+36450,2022-11-29,1º,mespino,Female,United States of America,2,White,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,"Food stamps,WIC,Other"
+36450,2023-04-05,2º,mespino,Female,United States of America,2,,,,,,,,,,,,,,,,Other
+98629,2023-02-14,1º,mespino,Female,United States of America,8,Other,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,Unemployed,Food stamps
+25586,2023-01-11,1º,njaen,Female,United States of America,4,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,24583,Employed Full-Time,WIC
+25586,2023-04-24,2º,njaen,Female,United States of America,4,Other,,,,,,,,,,,,,,,
+35300,2021-11-10,1º,ialba,Female,United States of America,2,Black or African American,No,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,,Unemployed,Food stamps
+35300,2022-05-13,2º,vbryant,Female,United States of America,2,Black or African American,No,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Other,"Food stamps,WIC"
+36541,2023-02-01,1º,yliaogomez,Female,United States of America,3,"White,Other",No,Single Family House,Own my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Unemployed,WIC
+36541,2023-06-12,2º,yliaogomez,Female,United States of America,3,,,,,,,,,,,,,,,,
+169706,2022-12-07,1º,yliaogomez,Female,United States of America,3,Other,No,Other,,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Unemployed,"Food stamps,WIC"
+140070,2023-01-23,1º,alopez,Female,United States of America,7,White,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,0,High School/GED,Less than High School,,Employed Full-Time,"TANF,WIC"
+18211,2021-11-10,1º,ialba,Female,United States of America,6,White,Yes,Single Family House,Own my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,Food stamps
+18211,2022-05-09,2º,vbryant,Female,United States of America,6,Other,Yes,Single Family House,Rent my home,Yes,No,No,No,No,Yes,1,High School/GED,High School/GED,31200,Employed Full-Time,"Food stamps,WIC"
+20225,2022-11-29,1º,mespino,Female,United States of America,7,White,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Part-Time,"Food stamps,WIC,Other"
+20225,2023-04-03,2º,mespino,Female,United States of America,7,,,,,,,,,,,,,,,,
+28403,2022-12-12,1º,njaen,Female,United States of America,3,Other,Yes,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Employed Full-Time,Food stamps
+25025,2022-12-02,1º,mespino,Female,United States of America,5,White,No,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,,Employed Full-Time,"Food stamps,WIC,Other"
+25025,2023-03-28,2º,mespino,Female,United States of America,5,White,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,Food stamps
+36446,2022-10-05,1º,qalamin,Female,United States of America,3,White,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Stay-at-Home Caregiver,WIC
+36997,2022-10-19,1º,dgomezserrano,Female,United States of America,1,"White,Native Hawaiian or Other Pacific Islander",Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,No,0,Less than High School,High School/GED,,Stay-at-Home Caregiver,
+36997,2023-06-29,2º,avanegasvelasquez,Female,United States of America,1,Other,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,"Employed Full-Time,Unemployed",Other
+34021,2021-11-04,1º,swilliamson,Female,United States of America,3,White,No,Single Family House,Own my home,No,Yes,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,,Stay-at-Home Caregiver,"WIC,Food stamps"
+34021,2022-05-05,2º,swilliamson,Female,United States of America,3,White,No,Trailer/Mobile Home,Own my home,No,Yes,Yes,No,No,No,1,Two-Year College Degree,Two-Year College Degree,25000,Unemployed,"Food stamps,Other,WIC"
+8,2021-03-19,1º,telamon_jetoya,Female,United States of America,4,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,"Food stamps,WIC"
+8,2021-05-27,2º,telamon_jetoya,Female,United States of America,4,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,Food stamps
+36346,2022-11-18,1º,kmacedo,Female,United States of America,2,Black or African American,No,Single Family House,Rent my home,No,No,Yes,Yes,Yes,Yes,2,High School/GED,High School/GED,1203322,Employed Full-Time,"Food stamps,WIC"
+36346,2023-06-16,2º,kmacedo,Female,United States of America,2,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,24000,Employed Part-Time,Food stamps
+172217,2023-04-21,1º,alopez,Female,United States of America,5,White,Yes,Trailer/Mobile Home,Live with another family,No,Yes,Yes,No,No,No,0,Less than High School,Less than High School,35000,Employed Full-Time,"Food stamps,WIC,Social Security"
+172217,2023-04-21,2º,alopez,Female,United States of America,5,White,Yes,Trailer/Mobile Home,Live with another family,No,Yes,Yes,No,No,No,0,Less than High School,Less than High School,35000,Employed Full-Time,"Food stamps,Disability,WIC"
+34923,2021-11-09,1º,mespino,Female,United States of America,2,Black or African American,No,Trailer/Mobile Home,Own my home,No,Yes,Yes,No,No,No,2,Two-Year College Degree,Two-Year College Degree,,Employed Full-Time,"WIC,Other"
+34923,2022-05-06,2º,mespino,Female,United States of America,2,,,,,,,,,,,,,,,,"Food stamps,WIC,Disability"
+34923,2022-12-09,3º,mespino,Female,United States of America,2,Black or African American,No,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,2,Graduate Degree,Graduate Degree,,Employed Full-Time,"Food stamps,WIC,Other"
+34923,2023-03-31,4º,mespino,Female,United States of America,2,Black or African American,No,Trailer/Mobile Home,Own my home,No,Yes,Yes,No,No,Yes,2,Two-Year College Degree,Two-Year College Degree,,Employed Full-Time,"Food stamps,WIC,Other"
+65667,2022-06-01,1º,kmacedo,Female,United States of America,3,"White,Other",No,Trailer/Mobile Home,Live with parents,No,No,Yes,Yes,No,Yes,1,High School/GED,High School/GED,45000,Employed Full-Time,"Food stamps,Other"
+65667,2022-10-18,2º,kmacedo,Female,United States of America,3,White,No,Trailer/Mobile Home,Live with partner in their home,No,No,Yes,No,No,Yes,3,High School/GED,High School/GED,41000,Employed Full-Time,Food stamps
+65667,2023-06-13,3º,kmacedo,Female,United States of America,3,"White,Asian,American Indian or Alaska Native",No,Trailer/Mobile Home,Live with parents,No,No,Yes,Yes,No,Yes,5,High School/GED,High School/GED,,Employed Full-Time,"WIC,Food stamps"
+36264,2022-11-13,1º,qalamin,Female,United States of America,2,Black or African American,No,Single Family House,Own my home,No,No,Yes,No,No,Yes,1,Four-Year College Degree,Four-Year College Degree,,Employed Full-Time,None
+35022,2021-11-09,1º,vbryant,Female,United States of America,3,White,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Unemployed,"Food stamps,WIC"
+35022,2022-05-13,2º,vbryant,Female,United States of America,3,White,No,Single Family House,Rent my home,No,Yes,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Unemployed,"Food stamps,WIC"
+18263,2022-11-29,1º,jdeleon,Female,United States of America,5,Other,Yes,Trailer/Mobile Home,Pagando,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,28000,"Employed Full-Time,Unemployed",Food stamps
+18263,2023-04-24,2º,yliaogomez,Female,United States of America,5,,,,,,,,,,,,,,,,
+34696,2023-01-12,1º,njaen,Female,United States of America,4,"White,Black or African American",No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,2,Two-Year College Degree,Two-Year College Degree,0,Employed Full-Time,"Food stamps,WIC"
+34696,2023-04-24,2º,njaen,Female,United States of America,4,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,,,,,Other,Food stamps
+34696,2023-04-24,3º,njaen,Female,United States of America,4,Other,,,,,,Yes,No,No,Yes,,,,,Other,Food stamps
+36410,2022-11-28,1º,mespino,Female,United States of America,5,,,,,,,,,,,0,Less than High School,Less than High School,,Stay-at-Home Caregiver,"Food stamps,Other"
+36410,2023-04-21,2º,mespino,Female,United States of America,5,Native Hawaiian or Other Pacific Islander,,,,,,,,,,,,,,,
+36609,2023-01-26,1º,mespino,Female,United States of America,3,Black or African American,No,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,,Employed Full-Time,"Food stamps,Other"
+36609,2023-04-06,2º,mespino,Female,United States of America,3,,,,,,,,,,,,,,,,
+30246,2021-12-09,1º,agarcia4,Male,United States of America,4,White,No,Single Family House,Own my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,29000,Employed Full-Time,
+30246,2022-05-05,2º,agarcia4,Male,United States of America,4,White,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,,,,Employed Full-Time,None
+36150,2022-09-22,1º,kmacedo,Female,United States of America,5,Other,Yes,Single Family House,Live with another family,No,No,No,No,No,Yes,1,High School/GED,High School/GED,23400,"Unemployed,Employed Full-Time",Food stamps
+36150,2023-03-28,2º,kmacedo,Female,United States of America,5,,Yes,Single Family House,Temporary housing/shelter,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,20800,Employed Full-Time,WIC
+28110,2022-01-21,1º,vbryant,Female,United States of America,3,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,18137,Employed Full-Time,"Food stamps,WIC"
+28110,2022-05-06,2º,vbryant,Female,United States of America,3,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,16313,Employed Full-Time,"Food stamps,WIC"
+28110,2022-12-08,3º,njaen,Female,United States of America,3,Black or African American,,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,18137,Employed Full-Time,"Food stamps,WIC"
+35054,2022-11-28,1º,mespino,Female,United States of America,4,American Indian or Alaska Native,Yes,Trailer/Mobile Home,Rent my home,No,No,No,No,No,Yes,0,Less than High School,Less than High School,,Stay-at-Home Caregiver,"Food stamps,WIC,Other"
+26714,2021-11-03,1º,vbryant,Female,United States of America,7,Black or African American,No,Trailer/Mobile Home,Live with another family,No,No,Yes,No,No,Yes,1,Less than High School,High School/GED,0,Unemployed,"Food stamps,WIC"
+26714,2022-05-05,2º,qalamin,Female,United States of America,7,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,Unemployed,"Food stamps,WIC"
+26714,2022-11-09,3º,qalamin,Female,United States of America,7,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,Less than High School,High School/GED,,In School,"WIC,Food stamps"
+35407,2022-12-02,1º,mespino,Female,United States of America,6,White,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,25000,Employed Full-Time,WIC
+35407,2022-07-06,1º,mespino,Female,United States of America,6,White,No,Apartment/Condominium,,,,,,,,,,,,,
+28544,2022-10-04,1º,snguyen,Female,United States of America,5,Other,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Unemployed,"Food stamps,WIC"
+28544,2023-06-30,2º,snguyen,Female,United States of America,5,Other,Yes,Single Family House,Own my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Stay-at-Home Caregiver,Food stamps
+37201,2023-04-24,1º,mespino,Female,United States of America,6,American Indian or Alaska Native,Yes,Trailer/Mobile Home,Own my home,No,Prefer not to say,Yes,No,No,Yes,1,High School/GED,High School/GED,,Unemployed,Other
+35054,2021-11-17,1º,agarcia4,Female,United States of America,1,Other,Yes,Apartment/Condominium,Live with parents,No,No,No,No,No,Yes,1,High School/GED,High School/GED,,Unemployed,"Food stamps,WIC"
+33057,2022-11-16,1º,jdeleon,Female,United States of America,6,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,Yes,Yes,0,Less than High School,Less than High School,,Employed Part-Time,"Food stamps,WIC"
+33057,2023-04-24,2º,yliaogomez,Female,United States of America,6,,,,,,,,,,,,,,,,
+33057,2021-11-10,1º,ialba,Female,United States of America,5,White,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Stay-at-Home Caregiver,"Food stamps,WIC"
+147772,2021-11-11,1º,njaen,Female,United States of America,4,"Black or African American,Other",No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,15904,Employed Full-Time,"Food stamps,WIC"
+147772,2022-05-03,2º,njaen,Female,United States of America,4,Black or African American,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,
+26757,2021-11-10,1º,ialba,Female,Mexico,4,White,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,,Employed Full-Time,None
+26757,2022-05-09,2º,vbryant,Female,Mexico,4,Other,Yes,Single Family House,Own my home,Yes,No,No,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,76214,Employed Full-Time,
+19959,2021-12-17,1º,vbryant,Female,United States of America,5,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,25400,Employed Full-Time,"Food stamps,Other"
+19959,2022-05-03,2º,vbryant,Female,United States of America,5,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,25400,Employed Full-Time,"Food stamps,WIC"
+174347,2023-01-27,1º,mespino,Female,United States of America,2,White,Yes,Trailer/Mobile Home,Live with parents,No,No,Yes,No,No,No,0,Less than High School,Less than High School,,Unemployed,"Food stamps,WIC,Other"
+34636,2021-10-15,1º,kmacedo,Male,Honduras,3,"Other,White",Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,1,Less than High School,High School/GED,20000,Employed Full-Time,Other
+34636,2022-05-04,2º,kmacedo,Male,Honduras,3,"White,Other",Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,1,Less than High School,High School/GED,20000,Employed Full-Time,Other
+34636,2022-09-07,3º,kmacedo,Male,Honduras,3,Other,Yes,Group Home,Live with parents,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,19300,Employed Full-Time,None
+34636,2023-04-27,4º,kmacedo,Male,Honduras,3,Other,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,20000,Employed Full-Time,None
+30758,2021-11-05,1º,kmacedo,Female,United States of America,3,Black or African American,No,Apartment/Condominium,Rent my home,No,Yes,Yes,No,No,Yes,0,Less than High School,Less than High School,12000,Employed Part-Time,"Food stamps,WIC,Social Security"
+30758,2022-05-03,2º,kmacedo,Female,United States of America,3,Black or African American,No,Apartment/Condominium,Rent my home,No,Yes,Yes,No,No,Yes,0,Less than High School,Less than High School,12000,Employed Part-Time,"Food stamps,WIC,Social Security"
+30758,2022-11-16,3º,kmacedo,Female,United States of America,3,Black or African American,No,Apartment/Condominium,Rent my home,No,Yes,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Unemployed,"Other,Social Security,Food stamps"
+30758,2023-05-04,4º,kmacedo,Female,United States of America,3,Black or African American,No,Apartment/Condominium,Rent my home,No,Yes,Yes,No,No,Yes,,High School/GED,High School/GED,,Employed Part-Time,"Food stamps,WIC,Social Security"
+36480,2022-12-08,1º,mespino,Female,United States of America,2,Black or African American,No,Single Family House,Live with parents,No,No,Yes,No,No,No,3,High School/GED,High School/GED,18000,Employed Full-Time,Food stamps
+36480,2023-04-03,2º,mespino,Female,United States of America,2,Black or African American,,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,,Food stamps
+29325,2021-10-19,1º,avanegasvelasquez,Female,United States of America,5,Other,Yes,Single Family House,Rent my home,No,Yes,Yes,No,No,No,2,High School/GED,High School/GED,,Employed Full-Time,WIC
+29325,2022-05-05,2º,avanegasvelasquez,Female,United States of America,5,Other,Yes,Single Family House,Own my home,No,Yes,Yes,No,No,Yes,0,Less than High School,Less than High School,,"Employed Full-Time,Unemployed",WIC
+30075,2021-12-08,1º,agarcia4,Non-binary/third gender,United States of America,3,White,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,Employed Full-Time,Food stamps
+30075,2022-05-05,2º,agarcia4,Non-binary/third gender,United States of America,3,White,No,Single Family House,Live with parents,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,20000,Employed Full-Time,None
+19836,2021-11-02,1º,kmacedo,Female,United States of America,6,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,High School/GED,11000,"In School,Stay-at-Home Caregiver","Food stamps,WIC"
+19836,2022-05-03,2º,kmacedo,Female,United States of America,6,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,High School/GED,11000,"In School,Stay-at-Home Caregiver","Food stamps,WIC"
+24393,2023-04-24,1º,mespino,Female,United States of America,4,American Indian or Alaska Native,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,2,Two-Year College Degree,Two-Year College Degree,,Employed Full-Time,Other
+24393,2023-06-08,2º,mespino,Female,United States of America,4,American Indian or Alaska Native,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,2,Two-Year College Degree,Two-Year College Degree,,,
+37202,2022-12-19,1º,jdeleon,Male,United States of America,3,Black or African American,No,Single Family House,Live with parents,No,No,Yes,No,No,Not applicable,1,High School/GED,High School/GED,23000,Employed Full-Time,Food stamps
+37202,2023-04-25,2º,yliaogomez,Male,United States of America,3,,,,,,,,,,,,,,,,
+12107,2022-11-29,1º,njaen,Female,United States of America,7,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,0,Employed Full-Time,"Food stamps,WIC"
+12107,2023-04-24,2º,njaen,Female,United States of America,7,Other,,,,,,,,,,,,,,Other,
+12107,2023-04-24,3º,njaen,Female,United States of America,7,Other,,,,,,,,,,,,,,Other,Food stamps
+33535,2021-11-04,1º,swilliamson,Female,United States of America,4,White,No,Single Family House,Rent my home,No,Yes,No,No,No,I don’t know,0,Less than High School,Less than High School,,Stay-at-Home Caregiver,"Food stamps,WIC"
+36033,2022-02-10,1º,vbryant,Female,United States of America,2,"White,Other",No,LIVING DOUBLE WITH A FAMILY MEMEBER AT THIS TIME,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,12100,Employed Full-Time,"Food stamps,WIC"
+36033,2022-05-03,2º,vbryant,Female,United States of America,2,Other,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,8560,Employed Part-Time,"Food stamps,WIC"
+36033,2022-11-29,3º,njaen,Female,United States of America,2,"White,Other",No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,8560,Employed Full-Time,"Food stamps,WIC"
+36033,2023-04-24,4º,njaen,Female,United States of America,2,Other,No,Single Family House,Rent my home,No,No,Yes,No,No,,,,,,Other,Food stamps
+27876,2021-10-20,1º,nanderson,Female,United States of America,5,White,No,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,27000,Employed Full-Time,Food stamps
+27876,2022-05-05,2º,nanderson,Female,United States of America,5,White,No,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,27000,"Employed Full-Time,Other",Food stamps
+27876,2022-10-12,3º,kmacedo,Female,United States of America,5,White,No,Single Family House,Own my home,No,No,Yes,No,No,No,1,High School/GED,High School/GED,26000,Employed Full-Time,Food stamps
+27876,2023-04-27,4º,kmacedo,Female,United States of America,5,White,No,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,27000,Employed Full-Time,Food stamps
+37088,2023-02-27,1º,yliaogomez,Male,United States of America,4,"Other,Black or African American",No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,No,2,High School/GED,High School/GED,,Employed Full-Time,Food stamps
+37088,2023-06-12,2º,yliaogomez,Male,United States of America,4,,,,,,,,,,,,,,,,
+28935,2022-01-05,1º,vbryant,Female,United States of America,2,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,1032202,Employed Full-Time,"Food stamps,WIC"
+28935,2022-04-28,2º,vbryant,Female,United States of America,2,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,1148,Employed Full-Time,"Food stamps,WIC"
+127788,2023-02-02,1º,yliaogomez,Female,United States of America,2,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,Yes,Prefer not to say,Yes,1,High School/GED,,,Employed Full-Time,Food stamps
+127788,2023-03-27,2º,yliaogomez,Female,United States of America,2,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,Food stamps
+37195,2023-03-08,1º,yliaogomez,Female,United States of America,3,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,24000,Employed Part-Time,"Food stamps,WIC"
+37195,2023-06-12,2º,yliaogomez,Female,United States of America,3,,,,,,,,,,,,,,,,
+168352,2022-12-07,1º,yliaogomez,Female,United States of America,2,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Unemployed,"Food stamps,WIC"
+168352,2023-06-20,2º,yliaogomez,Female,United States of America,2,,,,,,,,,,,,,,,,
+36317,2022-05-26,1º,vsanchezlopez,Female,United States of America,4,Other,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,,,,,,Stay-at-Home Caregiver,
+36317,2022-07-06,2º,vsanchezlopez,Female,United States of America,4,Other,Yes,Single Family House,Own my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,,Stay-at-Home Caregiver,Other
+37539,2023-03-23,1º,yliaogomez,Female,United States of America,5,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,Prefer not to say,Yes,1,High School/GED,Less than High School,,Employed Full-Time,Food stamps
+29909,2023-01-12,1º,njaen,Female,United States of America,5,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,Less than High School,0,Employed Full-Time,"Food stamps,WIC"
+131098,2021-11-09,1º,njaen,Female,United States of America,2,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,10400,"Stay-at-Home Caregiver,Other","WIC,Food stamps"
+17340,2022-06-29,1º,vsanchezlopez,Female,United States of America,7,Other,Yes,Single Family House,Own my home,No,Yes,Yes,No,No,Yes,0,High School/GED,High School/GED,,Stay-at-Home Caregiver,Food stamps
+36859,2022-11-29,1º,yliaogomez,Female,United States of America,3,"Black or African American,Native Hawaiian or Other Pacific Islander",No,Single Family House,Rent my home,No,No,Yes,No,Prefer not to say,Yes,1,High School/GED,Two-Year College Degree,,In School,WIC
+36859,2022-10-07,1º,qalamin,Female,United States of America,4,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,,In School,WIC
+32562,2021-10-28,1º,avanegasvelasquez,Female,Honduras,4,Other,Yes,Trailer/Mobile Home,Rent my home,No,Yes,No,No,No,Yes,,Less than High School,Less than High School,,Unemployed,"Food stamps,Disability,Social Security"
+32562,2022-05-05,2º,avanegasvelasquez,Female,Honduras,4,Other,Yes,Trailer/Mobile Home,Rent my home,No,Yes,No,No,No,Yes,0,Less than High School,Less than High School,,Unemployed,"Food stamps,Social Security,WIC,Disability"
+32562,2022-11-09,1º,avanegasvelasquez,Female,United States of America,4,Other,Yes,Single Family House,Rent my home,No,Yes,No,No,No,Yes,0,Less than High School,Less than High School,,Unemployed,"Food stamps,Social Security,Other"
+32562,2023-04-21,2º,avanegasvelasquez,Female,United States of America,4,Other,Yes,Single Family House,Rent my home,No,Yes,No,,No,Yes,0,Less than High School,Less than High School,,Unemployed,"Food stamps,Disability,WIC"
+172301,2022-10-04,1º,alopez,Female,United States of America,3,White,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,30000,Employed Full-Time,WIC
+19128,2021-12-08,1º,agarcia4,Female,United States of America,6,Black or African American,No,Single Family House,Own my home,No,No,No,No,No,No,1,High School/GED,Two-Year College Degree,8000,Unemployed,"TANF,WIC,Food stamps"
+69280,2023-03-13,1º,mmassey,Female,United States of America,6,Black or African American,No,Single Family House,Own my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,,Employed Part-Time,Food stamps
+36547,2022-10-18,1º,kmacedo,Female,United States of America,4,White,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,30000,Employed Full-Time,Food stamps
+36547,2023-05-09,2º,kmacedo,Female,United States of America,4,"White,Black or African American",No,Single Family House,Own my home,No,No,Yes,No,No,Yes,,High School/GED,High School/GED,,"Employed Full-Time,Employed Part-Time",Food stamps
+35261,2022-12-08,1º,jdeleon,Female,United States of America,3,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,,Food stamps
+35261,2023-04-24,2º,yliaogomez,Female,United States of America,3,,,,,,,,,,,,,,,,
+169685,2022-12-08,1º,yliaogomez,Male,United States of America,3,Black or African American,No,Apartment/Condominium,Rent my home,No,No,No,No,No,Yes,1,High School/GED,Less than High School,,Employed Full-Time,WIC
+32396,2021-10-19,1º,nanderson,Female,United States of America,6,Black or African American,No,Trailer/Mobile Home,Live with parents,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,25000,Employed Full-Time,"WIC,Food stamps"
+32396,2022-05-05,2º,nanderson,Female,United States of America,6,Black or African American,No,Trailer/Mobile Home,Live with parents,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,25000,Employed Full-Time,"Food stamps,WIC"
+32396,2022-10-12,3º,kmacedo,Female,United States of America,6,Black or African American,No,Trailer/Mobile Home,Live with parents,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,26000,Employed Full-Time,"WIC,Food stamps"
+32396,2023-03-24,4º,kmacedo,Female,United States of America,6,Black or African American,No,Trailer/Mobile Home,Live with parents,No,No,Yes,No,No,Yes,2,High School/GED,Less than High School,32000,Employed Full-Time,WIC
+135022,2022-05-03,1º,njaen,Female,United States of America,3,Other,Yes,Single Family House,Rent my home,No,No,,No,No,Yes,1,Two-Year College Degree,Less than High School,20648,"Employed Full-Time,In School",Food stamps
+135022,2022-05-03,2º,njaen,Female,United States of America,3,,Yes,Single Family House,Rent my home,No,No,No,No,No,Yes,1,Two-Year College Degree,High School/GED,20000,"Employed Full-Time,In School",
+33835,2023-03-24,1º,mespino,Female,United States of America,2,American Indian or Alaska Native,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,No,,,,,Employed Full-Time,Other
+33835,2023-04-21,2º,mespino,Female,United States of America,2,,,,,,,,,,,,,,,,
+33643,2022-07-06,1º,mespino,Female,United States of America,2,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,Prefer not to say,,1,High School/GED,High School/GED,,Unemployed,"Food stamps,Other"
+33643,2022-09-29,2º,mespino,Female,United States of America,3,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,,High School/GED,,Employed Full-Time,"Food stamps,WIC"
+33643,2023-04-21,3º,mespino,Female,United States of America,3,,,,,,,,,,,,,,,,
+144679,2021-11-04,1º,agarcia4,Female,United States of America,8,Other,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,0,Less than High School,High School/GED,15000,"Employed Full-Time,Unemployed",WIC
+144679,2022-05-05,2º,agarcia4,Female,United States of America,8,White,Yes,Apartment/Condominium,Own my home,No,No,No,No,No,Yes,0,High School/GED,Less than High School,,,
+172264,2022-11-29,1º,yliaogomez,Female,United States of America,4,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,Prefer not to say,Yes,1,High School/GED,High School/GED,,Employed Full-Time,
+36660,2022-10-06,1º,snguyen,Female,United States of America,4,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,2,Two-Year College Degree,Two-Year College Degree,,"Stay-at-Home Caregiver,Employed Full-Time",WIC
+36660,2023-06-29,2º,snguyen,Female,United States of America,4,White,Yes,Trailer/Mobile Home,Live with parents,No,No,Yes,No,No,No,1,Two-Year College Degree,Two-Year College Degree,8400,"Unemployed,Stay-at-Home Caregiver","WIC,Food stamps"
+32603,2022-06-28,1º,dgomezserrano,Female,United States of America,4,White,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,No,0,High School/GED,Less than High School,,"Stay-at-Home Caregiver,Employed Full-Time",
+32603,2022-11-29,2º,dgomezserrano,Female,United States of America,4,White,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,"Employed Full-Time,Stay-at-Home Caregiver",
+32603,2023-06-28,3º,avanegasvelasquez,Female,United States of America,4,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,,"Employed Full-Time,Unemployed","Other,None"
+35311,2022-10-11,1º,kmacedo,Female,United States of America,5,Other,Yes,Single Family House,Own my home,No,No,Yes,No,No,No,2,High School/GED,High School/GED,30000,Employed Full-Time,"WIC,Other"
+35311,2023-05-04,2º,kmacedo,Female,United States of America,5,,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,,High School/GED,High School/GED,,Employed Full-Time,"Food stamps,WIC"
+36706,2022-11-28,1º,mespino,Female,United States of America,3,American Indian or Alaska Native,Yes,,,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,"Employed Full-Time,Employed Part-Time",Other
+36706,2023-04-21,2º,mespino,Female,United States of America,3,,,,,,,,,,,,,,,,
+35444,2021-11-12,1º,ialba,Female,United States of America,2,,,Single Family House,Live with another family,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,In School,Food stamps
+35444,2022-04-25,2º,swilliamson,Female,United States of America,3,White,No,Single Family House,Live with another family,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Unemployed,"Food stamps,WIC"
+32005,2022-11-08,1º,jdeleon,Female,United States of America,6,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,19200,"Employed Full-Time,In School","Food stamps,WIC"
+29777,2021-10-05,1º,mmarquez1,Female,Mexico,4,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,,Less than High School,Less than High School,,Employed Full-Time,None
+29777,2022-05-04,2º,mmarquez1,Female,Mexico,4,,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,Employed Full-Time,Food stamps
+36497,2022-11-29,1º,njaen,Female,United States of America,4,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,0,Unemployed,"Food stamps,WIC"
+36497,2023-04-24,2º,njaen,Female,United States of America,4,Black or African American,,,,,,,,,,,,,,,
+35371,2021-12-08,1º,mespino,Female,Guatemala,4,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,Unemployed,WIC
+35371,2022-05-06,2º,mespino,Female,Guatemala,4,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,,,,,,,,
+149972,2022-05-04,1º,njaen,Female,United States of America,4,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,20800,Employed Full-Time,Food stamps
+36119,2022-03-31,1º,snguyen,Female,United States of America,6,Other,Yes,Trailer/Mobile Home,Own my home,No,Prefer not to say,Yes,No,No,No,1,High School/GED,High School/GED,,"Employed Full-Time,Stay-at-Home Caregiver",None
+36119,2022-10-18,2º,snguyen,Female,United States of America,6,Other,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,"Stay-at-Home Caregiver,Employed Full-Time","Food stamps,WIC"
+36318,2022-12-08,1º,jdeleon,Female,United States of America,2,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Unemployed,"Food stamps,WIC"
+36318,2023-04-26,2º,yliaogomez,Female,United States of America,2,,,,,,,,,,,,,,,,
+47423,2023-03-28,1º,yliaogomez,Female,United States of America,3,Black or African American,No,Single Family House,Live with another family,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,,In School,Food stamps
+26061,2021-11-17,1º,vbryant,Female,United States of America,3,White,Yes,Single Family House,Own my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,21279,Employed Part-Time,"Food stamps,WIC"
+26061,2022-05-09,2º,vbryant,Female,United States of America,3,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,21279,Employed Full-Time,"Food stamps,WIC"
+1110602,2022-11-15,1º,yliaogomez,Female,United States of America,3,White,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,,Employed Full-Time,"WIC,Food stamps"
+1110602,2023-06-20,2º,yliaogomez,Female,United States of America,3,,,,,,,,,,,,,,,,
+37356,2022-11-28,1º,mespino,Female,Mexico,5,American Indian or Alaska Native,Yes,Trailer/Mobile Home,,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Stay-at-Home Caregiver,"Food stamps,WIC"
+35683,2022-12-06,1º,mespino,Female,United States of America,7,American Indian or Alaska Native,Yes,Trailer/Mobile Home,Rent my home,No,No,No,No,No,Yes,1,High School/GED,High School/GED,,Unemployed,"Food stamps,WIC,Other"
+23673,2021-11-11,1º,ialba,Female,Mexico,4,White,Yes,Single Family House,Own my home,No,Yes,Yes,No,No,Yes,2,High School/GED,High School/GED,,Employed Full-Time,Disability
+23673,2022-05-09,2º,vbryant,Female,Mexico,4,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Other,"Social Security,Food stamps,WIC"
+37119,2022-12-13,1º,njaen,Female,United States of America,2,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,0,Employed Part-Time,"Food stamps,WIC"
+37119,2023-04-24,2º,njaen,Female,United States of America,2,Black or African American,,,,,,,,,,,,,,,
+126384,2021-11-10,1º,njaen,Female,United States of America,5,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,21200,Employed Part-Time,Food stamps
+126384,2022-05-03,2º,njaen,Female,United States of America,5,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,21200,Other,Food stamps
+36705,2022-12-08,1º,mespino,Female,United States of America,4,White,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Unemployed,"Other,WIC"
+36705,2023-03-28,2º,mespino,Female,United States of America,4,Other,Yes,,,,,,,,,,,,,Employed Full-Time,Food stamps
+36022,2022-05-06,1º,vbryant,Female,United States of America,2,Black or African American,No,Apartment/Condominium,Live with parents,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Unemployed,"Food stamps,WIC"
+36022,2022-05-06,2º,vbryant,Female,United States of America,2,Black or African American,No,Apartment/Condominium,Live with parents,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Unemployed,"Food stamps,WIC"
+36022,2022-11-29,3º,njaen,Female,United States of America,2,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,"Unemployed,In School","Food stamps,WIC"
+36022,2023-04-24,4º,njaen,Female,United States of America,2,Black or African American,,,,,,,,,,,,,,Employed Full-Time,Food stamps
+18779,2022-01-21,1º,vbryant,Female,United States of America,4,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,21200,Self-Employed,"Food stamps,WIC"
+18779,2022-05-09,2º,vbryant,Female,United States of America,4,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,0,Unemployed,"Food stamps,WIC"
+18779,2023-01-03,1º,kmacedo,Female,United States of America,4,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,24960,"Unemployed,Employed Full-Time","Food stamps,WIC"
+18779,2023-03-30,2º,kmacedo,Female,United States of America,4,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,Less than High School,Less than High School,,"Employed Full-Time,Unemployed",WIC
+35202,2021-11-23,1º,mespino,Female,El Salvador,2,Native Hawaiian or Other Pacific Islander,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Not applicable,1,High School/GED,High School/GED,,Employed Full-Time,None
+31757,2022-11-29,1º,njaen,Male,United States of America,4,"Other,Black or African American",Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,21801,Employed Full-Time,"Food stamps,WIC"
+31757,2023-04-24,2º,njaen,Male,United States of America,4,Other,Yes,Apartment/Condominium,Rent my home,No,No,Yes,No,No,,,High School/GED,,,Other,WIC
+25851,2021-11-16,1º,ialba,Female,Honduras,4,White,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,"Food stamps,WIC"
+25851,2022-05-11,2º,njaen,Female,Honduras,4,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,Food stamps
+36597,2022-12-09,1º,mespino,Female,United States of America,7,Black or African American,No,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,Unemployed,"WIC,Other"
+36597,2023-04-03,2º,mespino,Female,United States of America,7,Black or African American,No,Single Family House,Own my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,,,
+31534,2021-10-19,1º,kmacedo,Female,United States of America,3,Other,Yes,Trailer/Mobile Home,Rent my home,Yes,No,Yes,No,No,Yes,1,High School/GED,Less than High School,20000,Employed Full-Time,None
+31534,2022-11-10,2º,avanegasvelasquez,Female,United States of America,4,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,,"Other,WIC"
+31534,2023-06-27,3º,avanegasvelasquez,Female,United States of America,4,Other,Yes,Casa,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,"Employed Full-Time,Unemployed",WIC
+139288,2022-01-11,1º,kmacedo,Female,United States of America,7,White,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,No,0,Less than High School,Less than High School,22000,"Employed Full-Time,Stay-at-Home Caregiver,In School",None
+139288,2022-05-02,2º,kmacedo,Female,United States of America,7,Other,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,,High School/GED,High School/GED,16800,Employed Part-Time,
+30840,2022-09-27,1º,kmacedo,Female,United States of America,7,Other,Yes,Single Family House,Own my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,16800,"Employed Full-Time,Unemployed",None
+30840,2023-04-27,2º,kmacedo,Female,United States of America,7,Other,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,20000,"Employed Full-Time,Employed Part-Time",None
+36521,2022-12-08,1º,mespino,Female,United States of America,8,American Indian or Alaska Native,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,Unemployed,"Food stamps,Other"
+36521,2023-04-20,2º,mespino,Female,United States of America,8,,,,,,,,,,,,,,,,
+162871,2022-11-07,1º,yliaogomez,Female,United States of America,6,White,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,No,1,High School/GED,High School/GED,38000,Employed Full-Time,None
+147489,2021-11-22,1º,alopez,Female,United States of America,4,White,No,Trailer/Mobile Home,Owners,No,No,Yes,No,No,No,0,Less than High School,Less than High School,28000,Employed Full-Time,
+147489,2022-05-05,2º,alopez,Female,United States of America,4,White,Yes,Single Family House,Rent my home,No,No,Yes,No,No,No,,Less than High School,Less than High School,,Employed Full-Time,"Food stamps,WIC"
+147489,2023-02-15,1º,alopez,Female,United States of America,4,White,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,,High School/GED,High School/GED,32000,Employed Full-Time,"Food stamps,WIC"
+33892,2022-03-30,1º,avanegasvelasquez,Female,United States of America,4,,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,No,0,Less than High School,Less than High School,,Employed Full-Time,"Food stamps,WIC"
+33892,2022-05-05,2º,avanegasvelasquez,Female,United States of America,4,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,"Employed Full-Time,Unemployed",WIC
+14007,2021-11-03,1º,nanderson,Female,United States of America,5,Black or African American,No,Single Family House,Own my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,28000,Employed Full-Time,WIC
+14007,2022-05-05,2º,nanderson,Female,United States of America,5,Black or African American,No,Single Family House,Own my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,28000,Employed Full-Time,WIC
+14007,2022-11-16,3º,kmacedo,Female,United States of America,5,Black or African American,No,Single Family House,Own my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,28000,Employed Full-Time,WIC
+14007,2023-06-26,4º,kmacedo,Female,United States of America,5,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,28237,Employed Full-Time,
+33197,2021-12-06,1º,kmacedo,Female,United States of America,3,American Indian or Alaska Native,No,Single Family House,Rent my home,No,No,Yes,No,No,No,1,High School/GED,High School/GED,25000,"In School,Employed Full-Time","Food stamps,WIC"
+33197,2022-05-04,2º,kmacedo,Female,United States of America,3,American Indian or Alaska Native,No,Single Family House,Rent my home,No,No,Yes,No,No,No,1,High School/GED,High School/GED,25000,"In School,Employed Full-Time","Food stamps,WIC"
+36973,2022-11-29,1º,dgomezserrano,Female,United States of America,7,White,Yes,Single Family House,Own my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,,"Employed Full-Time,Stay-at-Home Caregiver,Unemployed",
+29406,2022-05-04,1º,vbryant,Female,United States of America,6,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,2,Two-Year College Degree,Two-Year College Degree,32797,Employed Full-Time,"Food stamps,WIC"
+29406,2022-05-04,2º,vbryant,Female,United States of America,6,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,2,Two-Year College Degree,Two-Year College Degree,32797,Employed Full-Time,"Food stamps,WIC"
+36483,2022-11-29,1º,njaen,Male,United States of America,2,Other,Yes,Trailer/Mobile Home,Rent my home,No,Yes,Yes,No,No,Yes,0,Less than High School,Less than High School,0,Employed Full-Time,"Food stamps,WIC"
+36483,2023-04-24,2º,njaen,Male,United States of America,2,,,,,,,,,,,,,,,,
+36443,2022-11-28,1º,mespino,Female,United States of America,2,White,No,,,,,,,,Yes,1,Two-Year College Degree,Two-Year College Degree,,Employed Full-Time,None
+36443,2023-04-21,2º,mespino,Female,United States of America,2,,,,,,,,,,,,,,,,
+29406,2022-11-29,1º,njaen,Female,United States of America,6,Other,Yes,Single Family House,Rent my home,,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,32000,Employed Full-Time,WIC
+29406,2023-04-24,2º,njaen,Female,United States of America,6,Other,,,,,,,,,,,,,,,
+33892,2022-10-11,1º,avanegasvelasquez,Female,United States of America,4,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,No,0,Less than High School,Less than High School,,"Employed Full-Time,Unemployed","WIC,Other"
+33892,2023-06-28,2º,avanegasvelasquez,Female,United States of America,4,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,"Employed Full-Time,Unemployed","Food stamps,WIC,Other"
+35136,2021-11-10,1º,ialba,Female,United States of America,2,White,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,Employed Full-Time,Food stamps
+3032,2022-11-28,1º,mespino,Female,United States of America,5,American Indian or Alaska Native,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,,Employed Full-Time,"Food stamps,WIC,Other"
+3032,2023-03-24,2º,mespino,Female,United States of America,5,Other,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,20000,Employed Full-Time,Food stamps
+20472,2021-11-12,1º,ialba,Female,Honduras,8,White,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,"Employed Full-Time,Stay-at-Home Caregiver","Food stamps,WIC"
+20472,2022-05-10,2º,vsanchezlopez,Female,United States of America,9,Other,Yes,Single Family House,Own my home,No,No,No,No,No,Yes,,,,,Unemployed,Food stamps
+34814,2021-11-10,1º,vbryant,Female,United States of America,4,Other,Yes,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,21112,Employed Full-Time,"Food stamps,WIC"
+34814,2022-05-03,2º,vbryant,Female,United States of America,4,Other,Yes,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,21112,Employed Full-Time,"Food stamps,WIC"
+36543,2023-01-31,1º,yliaogomez,Female,United States of America,2,Black or African American,No,Trailer/Mobile Home,Rent my home,No,No,No,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,Food stamps
+36543,2023-06-29,2º,yliaogomez,Female,United States of America,2,,,,,,,,,,,,,,,,
+36257,2022-11-29,1º,njaen,Female,United States of America,3,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Employed Full-Time,"Food stamps,WIC"
+36257,2023-04-24,2º,njaen,Female,United States of America,3,Other,Yes,,,,,,,,,,,,,,
+168284,2022-07-07,1º,yliaogomez,Female,United States of America,3,White,Yes,Single Family House,,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,,Employed Full-Time,WIC
+33488,2021-11-04,1º,kmacedo,Female,United States of America,5,Black or African American,No,Single Family House,Own my home,No,No,Yes,No,No,I don’t know,1,High School/GED,High School/GED,35000,Employed Full-Time,None
+33488,2022-05-03,2º,kmacedo,Female,United States of America,5,Black or African American,No,Single Family House,Own my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,35000,Employed Full-Time,None
+35322,2022-11-28,1º,njaen,Female,United States of America,5,Black or African American,No,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,26000,Employed Full-Time,WIC
+35322,2023-04-24,2º,njaen,Female,United States of America,5,Black or African American,,,,,,,,,,,,,,,
+3191,2022-05-03,1º,vbryant,Female,United States of America,5,Black or African American,No,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,5537,Other,"Food stamps,WIC"
+3191,2022-07-13,2º,vbryant,Female,United States of America,5,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,No,,Less than High School,Less than High School,9600,Employed Full-Time,None
+34932,2021-11-02,1º,nanderson,Female,United States of America,6,Black or African American,No,Transitional Housing,Live with parents,No,No,Yes,Yes,No,Yes,2,Two-Year College Degree,Two-Year College Degree,2400,Employed Full-Time,Food stamps
+34932,2022-05-05,2º,nanderson,Female,United States of America,6,Black or African American,No,Transitional Housing,Live with parents,No,No,Yes,Yes,No,Yes,2,Two-Year College Degree,Two-Year College Degree,,Employed Full-Time,Food stamps
+34932,2022-10-07,3º,kmacedo,Female,United States of America,6,Black or African American,No,Single Family House,Own my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,15583,Employed Full-Time,
+34932,2023-05-08,4º,kmacedo,Female,United States of America,6,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,,High School/GED,High School/GED,,Employed Part-Time,WIC
+35664,2022-01-08,1º,vbryant,Female,United States of America,2,Black or African American,No,Single Family House,Homeless,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Employed Full-Time,Other
+35664,2022-04-28,2º,vbryant,Female,United States of America,2,Black or African American,No,Single Family House,Homeless,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Unemployed,Food stamps
+35664,2023-03-28,3º,yliaogomez,Female,United States of America,2,Black or African American,No,Single Family House,Live with parents,No,No,Yes,No,Prefer not to say,Yes,1,High School/GED,High School/GED,35000,Employed Full-Time,None
+146457,2022-07-08,1º,alopez,Female,United States of America,5,White,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,32000,Employed Full-Time,WIC
+146457,2022-10-04,2º,alopez,Female,United States of America,5,White,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,2,Four-Year College Degree,Four-Year College Degree,45000,Employed Full-Time,WIC
+146457,2023-04-21,3º,alopez,Female,United States of America,5,White,Yes,Trailer/Mobile Home,Own my home,No,Yes,Yes,No,No,Yes,2,High School/GED,High School/GED,35000,Employed Full-Time,Food stamps
+37401,2023-01-19,1º,njaen,Female,United States of America,3,Other,No,Single Family House,Rent my home,No,No,No,No,No,Yes,2,Two-Year College Degree,Two-Year College Degree,0,Employed Full-Time,WIC
+37401,2023-04-24,2º,njaen,Female,United States of America,3,Other,,,,,,,,,,,,,,,
+21187,2021-11-12,1º,kmacedo,Female,United States of America,4,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,,Self-Employed,Food stamps
+21187,2022-05-04,2º,kmacedo,Female,United States of America,4,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,,Self-Employed,Food stamps
+21187,2022-10-11,3º,kmacedo,Female,United States of America,4,Black or African American,No,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,17251,Self-Employed,None
+21187,2023-03-27,4º,kmacedo,Female,United States of America,4,Black or African American,No,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,11,,,,Self-Employed,Food stamps
+1,2021-11-09,1º,mespino,Female,Mexico,3,Native Hawaiian or Other Pacific Islander,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,1,Less than High School,Less than High School,,Independiente,"Food stamps,Other"
+120112,2022-12-08,1º,yliaogomez,Female,United States of America,6,White,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,,Less than High School,Less than High School,,Unemployed,Food stamps
+146054,2022-11-14,1º,jdeleon,Female,United States of America,4,Black or African American,No,Apartment/Condominium,Rent my home,No,Yes,Yes,No,No,Yes,1,High School/GED,High School/GED,25000,Employed Full-Time,Food stamps
+24711,2021-10-28,1º,vbryant,Female,United States of America,4,Black or African American,No,Apartment/Condominium,Rent my home,No,Yes,Yes,No,No,Yes,1,High School/GED,High School/GED,18000,Employed Full-Time,Food stamps
+24711,2022-05-04,2º,vbryant,Female,United States of America,4,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,23158,Employed Full-Time,"WIC,Food stamps"
+146054,2023-04-26,2º,yliaogomez,Female,United States of America,4,,,,,,,,,,,,,,,,
+5,2021-03-12,1º,jrobinson,Female,United States of America,2,Black or African American,No,Group Home,,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,Employed Full-Time,"Food stamps,WIC"
+5,2021-05-27,2º,telamon_jetoya,Female,United States of America,2,Black or African American,No,Apartment/Condominium,Live with parents,No,No,Yes,No,No,,,,,,Employed Part-Time,"WIC,Food stamps"
+19035,2021-11-12,1º,mespino,Female,United States of America,5,Native Hawaiian or Other Pacific Islander,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,30524,Employed Full-Time,Other
+19035,2022-05-06,2º,mespino,Female,United States of America,5,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,2,Two-Year College Degree,Two-Year College Degree,,Unemployed,WIC
+19035,2022-12-08,3º,mespino,Female,United States of America,5,American Indian or Alaska Native,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,Graduate Degree,Graduate Degree,,Unemployed,Other
+19705,2021-10-19,1º,mmarquez1,Female,United States of America,5,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,24000,Employed Full-Time,"WIC,Social Security"
+19705,2022-05-04,2º,mmarquez1,Female,United States of America,5,,Yes,Trailer/Mobile Home,Rent my home,No,Prefer not to say,Yes,No,No,Yes,2,High School/GED,High School/GED,,Employed Full-Time,"Food stamps,WIC,Other"
+36861,2022-11-29,1º,jdeleon,Female,United States of America,4,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,Food stamps
+36670,2023-01-27,1º,mespino,Female,United States of America,2,White,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,No,1,Graduate Degree,Graduate Degree,,Employed Full-Time,"WIC,Other"
+36670,2023-04-05,2º,mespino,Female,United States of America,2,American Indian or Alaska Native,No,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,"WIC,Other"
+170812,2023-02-16,1º,alopez,Female,United States of America,3,Black or African American,No,Single Family House,Own my home,No,Yes,Yes,No,No,Yes,1,Less than High School,Two-Year College Degree,40000,Employed Full-Time,WIC
+28634,2022-07-06,1º,mespino,Male,United States of America,7,Other,Yes,Single Family House,Own my home,No,No,Yes,No,Prefer not to say,I don’t know,1,High School/GED,High School/GED,,Employed Full-Time,None
+28634,2022-07-06,2º,mespino,Male,United States of America,7,Other,Yes,Single Family House,Own my home,No,No,Yes,No,Prefer not to say,No,1,High School/GED,High School/GED,,Employed Full-Time,None
+32289,2023-06-13,2º,yliaogomez,Female,United States of America,3,,,,,,,,,,,,,,,,
+27980,2022-11-29,1º,dgomezserrano,Female,United States of America,5,White,Yes,Trailer/Mobile Home,Own my home,No,Yes,Yes,No,No,Yes,,,,,"Employed Full-Time,Stay-at-Home Caregiver","Other,Disability"
+167406,2022-11-09,1º,yliaogomez,Male,United States of America,5,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,,25000,Employed Full-Time,"Food stamps,WIC"
+167406,2023-06-29,2º,yliaogomez,Male,United States of America,5,,,,,,,,,,,,,,,,
+30856,2021-10-07,1º,snguyen,Female,El Salvador,4,Other,Yes,Single Family House,Own my home,Yes,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Stay-at-Home Caregiver,"Food stamps,WIC"
+30856,2022-05-04,2º,snguyen,Female,El Salvador,4,Other,Yes,Single Family House,Own my home,No,No,Yes,No,No,Yes,1,High School/GED,Less than High School,,Stay-at-Home Caregiver,"Food stamps,WIC"
+35276,2022-12-08,1º,njaen,Female,United States of America,4,,,,,,,,,,Yes,1,Two-Year College Degree,Two-Year College Degree,0,Unemployed,"Food stamps,WIC"
+35276,2023-04-24,2º,njaen,Female,United States of America,4,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Other,Food stamps
+32127,2021-11-11,1º,ialba,Male,Colombia,5,White,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,2,Two-Year College Degree,Two-Year College Degree,,"Employed Full-Time,Stay-at-Home Caregiver","Food stamps,WIC"
+32127,2022-05-09,2º,vbryant,Male,Colombia,5,Other,Yes,Single Family House,Own my home,No,No,No,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,25000,Employed Full-Time,"Food stamps,WIC"
+37193,2023-02-13,1º,jdeleon,Female,United States of America,3,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,25000,Employed Full-Time,WIC
+34682,2021-10-25,1º,kmacedo,Non-binary/third gender,Honduras,4,,Yes,Single Family House,Live with parents,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,25000,Employed Full-Time,"WIC,Social Security"
+34682,2022-05-02,2º,kmacedo,Female,Honduras,4,Other,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,,Less than High School,Less than High School,20800,"Employed Full-Time,Other","WIC,Food stamps"
+34682,2022-11-03,3º,kmacedo,Female,Honduras,4,Other,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,20800,Employed Full-Time,WIC
+34682,2023-04-28,4º,kmacedo,Female,Honduras,4,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Other,WIC
+37616,2023-06-21,1º,mespino,Female,United States of America,2,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Unemployed,"WIC,Food stamps"
+29982,2021-12-09,1º,mespino,Female,United States of America,4,Native Hawaiian or Other Pacific Islander,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,,Employed Full-Time,Food stamps
+29982,2022-05-06,2º,mespino,Female,United States of America,4,,,,,,,,,,,,,,,,
+29982,2022-12-02,3º,mespino,Female,United States of America,4,,,With family,Live with another family,No,Yes,Yes,No,Yes,Yes,2,High School/GED,High School/GED,30000,Employed Full-Time,"Food stamps,WIC"
+29982,2023-03-28,4º,mespino,Female,United States of America,4,"Black or African American,Other",Yes,Single Family House,Own my home,No,Yes,Yes,No,No,Yes,2,High School/GED,High School/GED,,Employed Full-Time,
+21861,2021-11-10,1º,kmacedo,Female,United States of America,4,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,Yes,Yes,1,Two-Year College Degree,Two-Year College Degree,2000,Employed Part-Time,Food stamps
+21861,2022-05-03,2º,kmacedo,Female,United States of America,4,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,Yes,Yes,1,Two-Year College Degree,Two-Year College Degree,2000,Employed Part-Time,Food stamps
+21861,2022-11-04,3º,kmacedo,Female,United States of America,4,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,Yes,Yes,1,High School/GED,Less than High School,17570,Employed Full-Time,
+21861,2023-05-04,4º,kmacedo,Female,United States of America,4,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,Yes,Yes,,High School/GED,High School/GED,,Employed Full-Time,Food stamps
+13662,2022-11-29,1º,mespino,Female,United States of America,6,Black or African American,No,Single Family House,Own my home,Yes,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Unemployed,"Food stamps,Other"
+13662,2023-03-30,2º,mespino,Female,United States of America,6,Black or African American,No,Single Family House,Own my home,,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Unemployed,"Food stamps,Other"
+27724,2021-11-10,1º,vbryant,Male,United States of America,6,White,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,25480,Employed Full-Time,"Food stamps,WIC"
+27724,2022-05-06,2º,vbryant,Male,United States of America,6,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Unemployed,"Food stamps,WIC"
+36975,2022-10-17,1º,swilliamson,Female,United States of America,4,White,Yes,Single Family House,Rent my home,No,No,Yes,No,No,I don’t know,2,High School/GED,High School/GED,,"Unemployed,In School","Food stamps,WIC"
+29897,2021-11-17,1º,dgomezserrano,Female,United States of America,6,White,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Four-Year College Degree,,Unemployed,WIC
+29897,2022-05-04,2º,dgomezserrano,Female,United States of America,6,White,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,2,Two-Year College Degree,Two-Year College Degree,,Employed Full-Time,None
+35319,2021-11-10,1º,vbryant,Female,United States of America,3,Other,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,16021,Employed Full-Time,"Food stamps,WIC"
+35319,2022-05-06,2º,vbryant,Female,United States of America,3,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,29500,Employed Full-Time,"Food stamps,WIC"
+35319,2022-11-29,3º,njaen,Female,United States of America,3,"Black or African American,White",No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,29000,Employed Full-Time,WIC
+35319,2023-04-24,4º,njaen,Female,United States of America,3,Other,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Other,Food stamps
+27697,2021-11-15,1º,mespino,Female,United States of America,4,White,No,Single Family House,Live with parents,No,No,Yes,Yes,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,"Food stamps,Other,WIC"
+27697,2022-05-06,2º,mespino,Female,United States of America,4,,,,,,,,,,,,,,,,
+27697,2022-12-09,3º,mespino,Female,United States of America,4,White,No,Single Family House,Prefer not to say,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,"Food stamps,Other"
+27697,2023-04-03,4º,mespino,Female,United States of America,4,White,No,Single Family House,,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,,
+23311,2022-10-06,1º,avanegasvelasquez,Female,United States of America,6,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,"Employed Full-Time,Unemployed","Food stamps,WIC,Other"
+23311,2023-06-08,2º,kmacedo,Female,United States of America,6,Other,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,0,Unemployed,Food stamps
+35078,2022-05-14,1º,vbryant,Male,United States of America,4,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,9600,Employed Part-Time,"Food stamps,WIC"
+168460,2022-06-16,1º,kmacedo,Male,United States of America,4,White,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,54000,Employed Full-Time,None
+168460,2022-10-13,2º,kmacedo,Male,United States of America,4,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,,Employed Full-Time,WIC
+168460,2023-06-06,3º,kmacedo,Male,United States of America,4,,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,4500,In School,WIC
+34441,2021-10-26,1º,kmacedo,Female,United States of America,5,Black or African American,No,Single Family House,Live with parents,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Unemployed,"Food stamps,WIC"
+34441,2022-05-04,2º,kmacedo,Female,United States of America,5,Black or African American,No,Single Family House,Live with parents,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Employed Full-Time,"Food stamps,WIC"
+34441,2022-08-30,3º,kmacedo,Female,United States of America,5,Black or African American,No,Single Family House,Live with another family,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Unemployed,"Food stamps,WIC"
+32658,2021-11-09,1º,mespino,Female,United States of America,5,Other,No,Trailer/Mobile Home,,No,No,No,No,No,Yes,5,,Two-Year College Degree,,Unemployed,Food stamps
+32658,2022-05-06,2º,mespino,Female,United States of America,5,Other,Yes,Trailer/Mobile Home,Rent my home,,,,,,,,,,,,
+32658,2022-12-15,3º,mespino,Female,United States of America,5,Black or African American,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Unemployed,"Food stamps,WIC,Other"
+34955,2021-11-04,1º,swilliamson,Female,United States of America,3,Black or African American,No,Single Family House,Live with parents,No,No,No,No,No,Yes,0,Less than High School,Less than High School,,Unemployed,"Food stamps,WIC,Social Security"
+1234,2022-11-15,1º,yliaogomez,Female,United States of America,6,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,2,Two-Year College Degree,Two-Year College Degree,9338,"Employed Full-Time,Stay-at-Home Caregiver","Food stamps,WIC"
+1234,2023-06-28,2º,yliaogomez,Female,United States of America,6,,,,,,,,,,,,,,,,
+35001,2022-06-06,1º,vbryant,Female,United States of America,2,Asian,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Unemployed,"Food stamps,WIC"
+35001,2022-07-11,2º,vbryant,Female,United States of America,2,Other,No,Single Family House,Live with parents,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,In School,"Food stamps,WIC"
+35001,2022-10-12,3º,snguyen,Female,United States of America,3,Asian,No,Transitional Housing,Live with parents,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,,Stay-at-Home Caregiver,WIC
+35001,2023-06-27,4º,snguyen,Female,United States of America,3,Asian,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,,Stay-at-Home Caregiver,WIC
+32029,2021-11-16,1º,dgomezserrano,Female,United States of America,3,White,Yes,Group Home,Live with parents,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,Employed Full-Time,WIC
+32029 (old),2022-05-04,2º,dgomezserrano,Female,United States of America,3,White,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,No,0,Less than High School,Less than High School,,Employed Full-Time,
+36723,2022-11-29,1º,jdeleon,Female,United States of America,5,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,Unemployed,"Food stamps,WIC"
+36723,2023-04-24,2º,njaen,Female,United States of America,5,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,,Less than High School,Less than High School,,Other,Food stamps
+36166,2022-05-13,1º,vbryant,Female,United States of America,4,White,No,Single Family House,Homeless,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Unemployed,"Food stamps,WIC"
+33333,2022-11-17,1º,kmacedo,Female,United States of America,6,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Employed Part-Time,"Food stamps,WIC"
+25750,2021-12-16,1º,kmacedo,Female,United States of America,5,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,No,1,High School/GED,High School/GED,,Employed Part-Time,"Food stamps,WIC"
+33333,2023-03-30,2º,kmacedo,Female,United States of America,6,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,,,,,Employed Part-Time,"Food stamps,WIC"
+25750,2022-05-03,2º,kmacedo,Female,United States of America,5,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,No,1,High School/GED,High School/GED,13400,Employed Part-Time,"Food stamps,WIC"
+14155,2022-11-29,1º,mespino,Female,United States of America,5,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,10200,"Self-Employed,Employed Part-Time,Stay-at-Home Caregiver,In School","WIC,Food stamps"
+14155,2023-04-05,2º,mespino,Female,United States of America,5,Black or African American,No,Single Family House,,,,,,,,,,,,,
+32029 (New),2022-11-29,1º,dgomezserrano,Female,United States of America,3,White,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Not applicable,0,Less than High School,Less than High School,,"Employed Full-Time,Stay-at-Home Caregiver",
+35680,2021-11-11,1º,ialba,Female,Honduras,5,White,Yes,Trailer/Mobile Home,Live with parents,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,,"Unemployed,Employed Part-Time","Food stamps,WIC"
+35680,2022-05-14,2º,vbryant,Female,Honduras,5,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Unemployed,"Food stamps,WIC"
+36152,2022-05-13,1º,vbryant,Female,United States of America,2,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Unemployed,"Food stamps,WIC"
+35134,2023-01-12,1º,njaen,Female,United States of America,2,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,0,Employed Full-Time,WIC
+35134,2023-04-24,2º,njaen,Female,United States of America,2,Other,Yes,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,,Less than High School,Less than High School,,Employed Full-Time,None
+35134,2021-11-10,1º,ialba,Female,United States of America,2,White,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,Less than High School,Less than High School,,Employed Full-Time,Food stamps
+36675,2022-10-19,1º,dgomezserrano,Female,United States of America,1,White,Yes,Other,Live with parents,No,No,Yes,No,No,No,1,Two-Year College Degree,High School/GED,,Employed Full-Time,WIC
+36567,2023-06-27,2º,avanegasvelasquez,Female,United States of America,4,Other,Yes,Casa,Rent my home,,,,No,No,Yes,0,High School/GED,High School/GED,,"Employed Full-Time,Unemployed","WIC,Food stamps"
+31446,2021-11-10,1º,ialba,Female,United States of America,4,White,No,Single Family House,Own my home,No,Yes,Yes,No,No,Yes,0,Less than High School,Less than High School,,"Employed Full-Time,Stay-at-Home Caregiver",Food stamps
+31446,2022-05-09,2º,vbryant,Female,United States of America,4,White,No,Single Family House,Own my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,0,Other,"Food stamps,WIC,Social Security"
+35589,2021-10-18,1º,kmacedo,Female,United States of America,2,Other,Yes,Trailer/Mobile Home,Live with parents,No,No,Yes,No,No,No,0,Less than High School,Less than High School,0,Other,None
+35589,2022-05-04,2º,kmacedo,Female,United States of America,2,Other,Yes,Trailer/Mobile Home,Live with parents,No,No,Yes,No,No,No,0,Less than High School,Less than High School,0,"Other,In School",None
+35589,2022-10-14,3º,kmacedo,Female,United States of America,2,Other,Yes,Single Family House,Live with parents,No,No,No,No,No,Yes,0,Less than High School,Less than High School,0,In School,"WIC,Food stamps"
+35589,2023-03-24,4º,kmacedo,Female,United States of America,2,Other,Yes,Single Family House,Rent my home,No,No,No,No,No,Yes,1,High School/GED,High School/GED,0,In School,WIC
+149230,2022-11-17,1º,yliaogomez,Female,United States of America,5,Black or African American,No,Apartment/Condominium,Live with another family,No,Yes,Yes,No,No,Yes,1,High School/GED,High School/GED,24000,Employed Full-Time,"Food stamps,WIC"
+149230,2023-03-28,2º,yliaogomez,Female,United States of America,5,Black or African American,No,Single Family House,Rent my home,No,Yes,Yes,No,Prefer not to say,Yes,1,High School/GED,Less than High School,,Employed Full-Time,Food stamps
+35997,2022-07-08,1º,qalamin,Female,United States of America,4,White,No,Trailer/Mobile Home,Live on farm of work location,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,18000,Employed Full-Time,"WIC,Food stamps"
+35997,2022-11-30,2º,qalamin,Female,United States of America,4,White,No,Single Family House,Live with partner in their home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,"Stay-at-Home Caregiver,Other",Food stamps
+36152,2022-11-16,1º,jdeleon,Female,United States of America,8,Other,Yes,Trailer/Mobile Home,Live with parents,No,No,Yes,No,No,Not applicable,2,High School/GED,Two-Year College Degree,40000,"In School,Employed Full-Time,Self-Employed",Other
+36152,2023-04-24,2º,yliaogomez,Female,United States of America,8,,,,,,,,,,,,,,,,
+36999,2022-11-28,1º,mespino,Female,United States of America,3,American Indian or Alaska Native,No,,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,Other
+36999,2023-03-24,2º,mespino,Female,United States of America,3,White,No,Single Family House,Live with parents,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,None
+36475,2022-11-29,1º,njaen,Female,United States of America,2,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,0,Employed Full-Time,"Food stamps,WIC"
+36475,2023-04-24,2º,njaen,Female,United States of America,2,Black or African American,No,,,No,No,Yes,No,No,,,,,,Employed Full-Time,Food stamps
+34929,2021-11-04,1º,mespino,Female,United States of America,3,White,No,Trailer/Mobile Home,,No,Yes,Yes,No,Prefer not to say,,2,Two-Year College Degree,Two-Year College Degree,,Stay-at-Home Caregiver,Social Security
+34929,2022-05-05,2º,snguyen,Female,United States of America,3,White,No,Trailer/Mobile Home,Prefer not to say,No,Yes,Yes,No,No,Yes,1,Two-Year College Degree,,,Stay-at-Home Caregiver,"Food stamps,WIC,Disability,Social Security"
+169420,2022-12-08,1º,yliaogomez,Female,United States of America,2,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,Graduate Degree,Graduate Degree,,Employed Full-Time,"Food stamps,WIC"
+12345,2022-11-14,1º,yliaogomez,Male,United States of America,2,Black or African American,No,Trailer/Mobile Home,Live with parents,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Part-Time,
+172260,2023-04-24,1º,kmacedo,Female,United States of America,5,White,No,Single Family House,Live with partner in their home,No,No,Yes,Yes,No,Yes,2,High School/GED,High School/GED,,Employed Full-Time,"Food stamps,WIC"
+36737,2022-11-17,1º,jdeleon,Female,United States of America,3,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Not applicable,1,High School/GED,High School/GED,34000,Employed Full-Time,Food stamps
+36737,2023-04-24,2º,yliaogomez,Female,United States of America,3,,,,,,,,,,,,,,,,
+37214,2022-11-07,1º,snguyen,Female,United States of America,2,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,Four-Year College Degree,Four-Year College Degree,,Stay-at-Home Caregiver,"Food stamps,WIC"
+37214,2023-06-30,2º,snguyen,Female,United States of America,3,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,Four-Year College Degree,Four-Year College Degree,,Stay-at-Home Caregiver,"Food stamps,WIC"
+35842,2021-11-29,1º,kmacedo,Female,United States of America,7,Other,Yes,Single Family House,Live with another family,No,No,Yes,No,No,I don’t know,1,Two-Year College Degree,Two-Year College Degree,36000,Employed Full-Time,Food stamps
+35842,2022-05-04,2º,kmacedo,Female,United States of America,7,Other,Yes,Single Family House,Live with another family,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,36000,Employed Full-Time,Food stamps
+35842,2022-09-22,3º,kmacedo,Female,United States of America,7,Other,Yes,Trailer/Mobile Home,,No,No,Yes,Yes,No,Yes,1,Two-Year College Degree,Less than High School,42000,Employed Full-Time,Food stamps
+35842,2023-03-27,4º,kmacedo,Female,United States of America,7,Other,Yes,Trailer/Mobile Home,Other,No,No,Yes,No,No,Yes,1,Four-Year College Degree,Less than High School,46000,Employed Full-Time,None
+3,2020-12-04,1º,jrobinson,Female,United States of America,3,Black or African American,No,Apartment/Condominium,Rent my home,No,Prefer not to say,Yes,No,No,Yes,,Less than High School,Less than High School,,Unemployed,"Food stamps,TANF"
+3,2021-05-27,2º,telamon_jetoya,Female,United States of America,3,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,Unemployed,Food stamps
+21954,2021-11-10,1º,vbryant,Female,United States of America,3,Black or African American,No,Single Family House,Rent my home,No,Yes,Yes,Yes,No,Yes,1,High School/GED,High School/GED,0,Unemployed,"Food stamps,WIC"
+21954,2022-05-09,2º,vbryant,Female,United States of America,3,Black or African American,No,Single Family House,Homeless,No,Yes,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Unemployed,"Food stamps,WIC"
+21954,2023-02-06,3º,yliaogomez,Female,United States of America,3,Black or African American,No,Single Family House,Live with parents,Yes,Yes,Yes,No,Prefer not to say,Yes,1,High School/GED,,,Unemployed,"Food stamps,Disability"
+21954,2023-06-12,4º,yliaogomez,Female,United States of America,3,,,,,,,,,,,,,,,,
+34494,2021-11-02,1º,nanderson,Female,United States of America,3,Black or African American,No,Single Family House,Live with parents,No,Yes,Yes,No,No,No,2,High School/GED,High School/GED,,Unemployed,"Food stamps,WIC,Social Security"
+34494,2022-05-03,2º,nanderson,Female,United States of America,3,Black or African American,No,Single Family House,Live with parents,No,Yes,Yes,No,No,No,2,High School/GED,High School/GED,,Unemployed,"Food stamps,WIC,Social Security"
+35914,2022-05-14,1º,vbryant,Female,United States of America,3,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,0,Unemployed,"Food stamps,WIC"
+30003,2021-11-17,1º,dgomezserrano,Female,United States of America,5,,,,Prefer not to say,No,No,No,No,No,Yes,0,High School/GED,High School/GED,0,Employed Full-Time,WIC
+30003 (old),2022-05-04,2º,dgomezserrano,Female,United States of America,5,White,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,Employed Full-Time,None
+30003 (New),2022-11-29,1º,dgomezserrano,Female,Honduras,5,White,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,"Employed Full-Time,Stay-at-Home Caregiver,Unemployed",
+30003 (New),2023-04-21,2º,alopez,Female,Honduras,5,White,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,35000,Employed Full-Time,Food stamps
+150716,2021-11-22,1º,alopez,Female,United States of America,5,White,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,32000,Employed Full-Time,
+150716,2022-05-05,2º,alopez,Female,United States of America,5,White,Yes,Single Family House,Own my home,No,No,Yes,No,No,Yes,,High School/GED,High School/GED,,Employed Full-Time,Food stamps
+150716,2022-10-04,1º,alopez,Female,United States of America,5,White,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,40000,Employed Full-Time,WIC
+36354,2023-02-13,1º,jdeleon,Male,United States of America,5,White,No,Single Family House,Own my home,No,Yes,Yes,No,No,Yes,1,High School/GED,High School/GED,20000,Employed Part-Time,Food stamps
+163825,2021-11-11,1º,njaen,Female,United States of America,5,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,22484,Other,"Food stamps,WIC"
+131147,2023-01-17,1º,yliaogomez,Female,United States of America,5,Black or African American,No,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,,Employed Full-Time,"Food stamps,WIC"
+32774,2022-10-06,1º,snguyen,Female,United States of America,4,Other,Yes,Trailer/Mobile Home,Live with parents,No,No,No,No,No,Yes,,Less than High School,Less than High School,,Stay-at-Home Caregiver,"WIC,Food stamps"
+32774,2023-06-28,2º,snguyen,Female,United States of America,4,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,Less than High School,Less than High School,,Employed Full-Time,"Food stamps,WIC"
+32835,2022-11-14,1º,jdeleon,Female,United States of America,4,Black or African American,No,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,22000,Employed Full-Time,Food stamps
+36489,2023-01-25,1º,mespino,Female,United States of America,5,White,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,No,3,High School/GED,High School/GED,,Employed Part-Time,None
+36489,2023-04-18,2º,mespino,Female,United States of America,5,,,,,,,,,,,,,,,,
+29325,2022-10-04,1º,avanegasvelasquez,Female,United States of America,5,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,3,High School/GED,High School/GED,,"Employed Full-Time,Unemployed","WIC,Other"
+29325,2023-06-27,2º,avanegasvelasquez,Female,United States of America,5,Other,Yes,Casa,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,"Employed Full-Time,Unemployed",WIC
+35286,2021-11-11,1º,ialba,Female,United States of America,4,Black or African American,No,Trailer/Mobile Home,Rent my home,No,No,,No,No,Yes,1,High School/GED,High School/GED,,Unemployed,"Food stamps,WIC"
+34081,2021-12-10,1º,ialba,Female,United States of America,2,White,No,Single Family House,Live with parents,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,In School,Food stamps
+34081,2022-05-14,2º,vbryant,Female,United States of America,2,White,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,6090,Employed Part-Time,"Food stamps,WIC"
+34081,2022-12-08,3º,jdeleon,Female,United States of America,2,White,No,Single Family House,Rent my home,No,No,Yes,No,No,Not applicable,1,High School/GED,High School/GED,10000,"Employed Part-Time,In School",Food stamps
+27381,2021-10-18,1º,kmacedo,Female,United States of America,3,Black or African American,No,Trailer/Mobile Home,Live with parents,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,,Employed Full-Time,"Food stamps,WIC"
+27381,2022-05-04,2º,kmacedo,Female,United States of America,3,Black or African American,No,Trailer/Mobile Home,Live with parents,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,15883,Employed Full-Time,"Food stamps,WIC"
+15884,2022-10-19,1º,kmacedo,Female,United States of America,4,"Black or African American,Asian,White",No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,0,Employed Part-Time,Social Security
+15884,2023-06-07,2º,kmacedo,Female,United States of America,4,"Black or African American,Asian",No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,10000,Stay-at-Home Caregiver,"WIC,Social Security"
+30983,2022-12-13,1º,njaen,Female,United States of America,4,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Employed Full-Time,"Food stamps,WIC"
+30983,2023-04-24,2º,njaen,Female,United States of America,4,Black or African American,No,,,No,No,Yes,No,No,,,,,,,
+166098,2021-11-11,1º,njaen,Female,United States of America,4,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,2,Two-Year College Degree,Two-Year College Degree,16644,Employed Full-Time,Food stamps
+166098,2022-05-03,2º,njaen,Female,United States of America,4,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,2,Two-Year College Degree,Two-Year College Degree,18644,Employed Full-Time,
+3253,2021-11-04,1º,mespino,Female,United States of America,6,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,Employed Part-Time,"Food stamps,WIC,Other"
+3253,2022-05-06,2º,mespino,Female,United States of America,6,Other,Yes,Trailer/Mobile Home,,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,Unemployed,"Food stamps,WIC"
+3253,2022-11-28,3º,mespino,Female,United States of America,6,American Indian or Alaska Native,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,Stay-at-Home Caregiver,"Food stamps,WIC,Other"
+3253,2023-04-21,4º,mespino,Female,United States of America,6,,,,,,,,,,,,,,,,
+161664,2021-11-11,1º,njaen,Female,United States of America,4,Other,Yes,Single Family House,Rent my home,Yes,No,Yes,No,No,Yes,0,Less than High School,Less than High School,9600,Other,"WIC,Food stamps"
+161664,2022-05-05,2º,njaen,Female,United States of America,4,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Other,Food stamps
+126813,2021-11-11,1º,njaen,Female,United States of America,5,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,11200,Employed Full-Time,"Food stamps,WIC"
+126813,2022-05-04,2º,njaen,Female,United States of America,5,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,11200,Employed Full-Time,Food stamps
+35486,2022-01-14,1º,vbryant,Female,United States of America,5,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,0,Unemployed,"Food stamps,WIC"
+35486,2022-05-05,2º,vbryant,Female,United States of America,5,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,2309,Employed Part-Time,"Food stamps,WIC"
+35486,2022-11-01,3º,swilliamson,Female,United States of America,5,White,No,Single Family House,Rent my home,No,No,Yes,No,No,No,1,Two-Year College Degree,High School/GED,24000,Employed Full-Time,"Food stamps,WIC"
+37104,2022-11-28,1º,mespino,Female,United States of America,4,Black or African American,No,,,No,No,Yes,No,No,No,1,High School/GED,High School/GED,,Employed Full-Time,"Food stamps,WIC,Other"
+37104,2023-04-21,2º,mespino,Female,United States of America,4,,,,,,,,,,,,,,,,
+172975,2022-12-08,1º,yliaogomez,Female,United States of America,2,Black or African American,No,Single Family House,Live with parents,No,No,No,No,No,Yes,1,Less than High School,High School/GED,,Employed Full-Time,Food stamps
+171044,2022-10-13,1º,alopez,Female,United States of America,5,White,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,34000,Employed Full-Time,WIC
+16944,2022-11-29,1º,njaen,Female,United States of America,5,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,20217,Employed Full-Time,"Food stamps,WIC"
+16944,2023-04-24,2º,njaen,Female,United States of America,5,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Other,Food stamps
+166148,2022-01-26,1º,swilliamson,Female,United States of America,4,Black or African American,No,Single Family House,Rent my home,No,Prefer not to say,No,No,No,Yes,1,High School/GED,High School/GED,2400,Unemployed,"Food stamps,WIC"
+166148,2022-05-05,2º,swilliamson,Female,United States of America,4,Black or African American,No,Single Family House,Rent my home,No,Prefer not to say,No,No,No,Yes,1,High School/GED,High School/GED,2000,Unemployed,"Food stamps,WIC,Other"
+166148',2022-10-05,1º,swilliamson,Female,United States of America,3,Black or African American,No,Trailer/Mobile Home,Rent my home,No,No,No,No,No,Yes,12,High School/GED,High School/GED,22000,Unemployed,"WIC,Food stamps,Other"
+35235,2021-11-03,1º,agarcia4,Female,United States of America,7,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,No,0,Less than High School,High School/GED,0,Employed Full-Time,None
+36358,2022-10-03,1º,mespino,Female,United States of America,5,American Indian or Alaska Native,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,No,1,High School/GED,High School/GED,,Employed Full-Time,None
+36358,2023-04-24,2º,mespino,Female,United States of America,5,Native Hawaiian or Other Pacific Islander,No,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,No,1,High School/GED,High School/GED,,Employed Full-Time,None
+21584,2021-11-18,1º,mespino,Female,United States of America,1,White,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,,Employed Part-Time,Other
+21584,2022-07-05,2º,mespino,Female,United States of America,1,Other,Yes,,,No,No,Yes,No,Prefer not to say,,,,,,,
+28205,2021-10-05,1º,mmarquez1,Female,Mexico,4,Other,Yes,Casa,Rent my home,No,No,Yes,No,No,Yes,,High School/GED,Less than High School,,Employed Full-Time,Other
+1,2021-05-18,1º,telamon_jetoya,Female,United States of America,4,Other,Yes,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,,Stay-at-Home Caregiver,None
+1,2021-05-27,2º,telamon_jetoya,Female,United States of America,4,,Yes,Apartment/Condominium,Rent my home,No,No,Yes,No,No,No,,High School/GED,Less than High School,24000,Employed Full-Time,None
+15335,2022-10-05,1º,avanegasvelasquez,Male,United States of America,6,White,Yes,Single Family House,Own my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,"WIC,Other"
+15335,2023-06-28,2º,avanegasvelasquez,Male,United States of America,6,White,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,,Employed Full-Time,WIC
+35326,2021-11-04,1º,vbryant,Female,United States of America,4,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,Four-Year College Degree,Four-Year College Degree,12000,Employed Part-Time,Food stamps
+35326,2022-05-03,2º,vbryant,Female,United States of America,4,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,Four-Year College Degree,Four-Year College Degree,25212,Employed Full-Time,"Food stamps,WIC"
+100588,2022-07-06,1º,yliaogomez,Female,United States of America,3,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,WIC
+10588,2022-11-16,1º,yliaogomez,Female,United States of America,3,Black or African American,No,Single Family House,Live with parents,No,No,,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,28000,Employed Full-Time,"Food stamps,WIC"
+10588,2023-06-20,2º,yliaogomez,Female,United States of America,3,,,,,,,,,,,,,,,,
+27186,2021-11-03,1º,kmacedo,Female,United States of America,4,Black or African American,No,Trailer/Mobile Home,Rent my home,No,Yes,Yes,Yes,No,Yes,2,High School/GED,High School/GED,2000,Employed Part-Time,Food stamps
+27186,2022-05-03,2º,kmacedo,Female,United States of America,4,Black or African American,No,Trailer/Mobile Home,Rent my home,No,Yes,Yes,Yes,No,Yes,2,High School/GED,High School/GED,2000,Employed Part-Time,Food stamps
+162812,2023-03-03,1º,njaen,Female,United States of America,3,Other,Yes,Single Family House,Rent my home,No,Yes,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,0,Other,"Food stamps,WIC"
+162812,2023-03-22,2º,njaen,Female,United States of America,3,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,No,1,High School/GED,High School/GED,,Unemployed,Food stamps
+162812,2023-03-22,3º,njaen,Female,United States of America,3,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,No,1,High School/GED,High School/GED,,Unemployed,Food stamps
+172796,2022-12-09,1º,yliaogomez,Female,United States of America,4,White,No,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,,Unemployed,WIC
+34236,2021-11-08,1º,nanderson,Female,United States of America,5,White,No,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,50000,"Employed Part-Time,Stay-at-Home Caregiver","Food stamps,WIC"
+34236,2022-05-02,2º,nanderson,Female,United States of America,5,White,No,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,50000,"Employed Part-Time,Stay-at-Home Caregiver","Food stamps,WIC"
+33598,2021-10-22,1º,nanderson,Female,United States of America,5,Black or African American,No,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,20866,Employed Full-Time,"Food stamps,WIC"
+33598,2022-05-05,2º,nanderson,Female,United States of America,5,Black or African American,No,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,20866,Employed Full-Time,"Food stamps,WIC"
+33598,2022-10-13,3º,kmacedo,Female,United States of America,5,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,21936,Employed Part-Time,
+33598,2023-06-08,4º,kmacedo,Female,United States of America,5,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,32000,Employed Full-Time,"Food stamps,WIC"
+139250,2022-08-31,1º,kmacedo,Female,Mexico,5,Other,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,No,2,High School/GED,High School/GED,,Employed Full-Time,Food stamps
+139250,2023-03-27,2º,kmacedo,Female,Mexico,5,Other,Yes,Single Family House,Own my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,26000,Employed Full-Time,Food stamps
+31810,2021-10-08,1º,snguyen,Female,Mexico,4,Other,Yes,Trailer/Mobile Home,Own my home,No,Yes,Yes,No,No,Yes,0,Less than High School,Less than High School,,"Self-Employed,Stay-at-Home Caregiver","Disability,Food stamps"
+31810,2022-05-04,2º,dgomezserrano,Female,Mexico,4,White,Yes,Trailer/Mobile Home,Own my home,No,Yes,Yes,No,No,Yes,1,High School/GED,High School/GED,,Stay-at-Home Caregiver,Social Security
+31810,2022-11-28,1º,mespino,Female,United States of America,5,American Indian or Alaska Native,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,0,High School/GED,Less than High School,,Stay-at-Home Caregiver,"Disability,Food stamps"
+174887,2023-03-30,1º,mespino,Female,United States of America,2,American Indian or Alaska Native,Yes,Trailer/Mobile Home,Live with another family,No,No,No,No,No,Yes,0,Less than High School,High School/GED,,Unemployed,None
+33496,2023-01-25,1º,mespino,Female,Mexico,6,White,Yes,Single Family House,Own my home,Yes,No,Yes,No,No,Yes,1,Less than High School,Less than High School,,Unemployed,Other
+33496,2023-04-18,2º,mespino,Female,Mexico,6,,,,,,,,,,,,,,,,
+35691,2022-05-04,1º,vbryant,Female,United States of America,2,White,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Unemployed,"Food stamps,WIC"
+35691,2022-05-04,2º,vbryant,Female,United States of America,2,White,No,Single Family House,Homeless,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Unemployed,"Food stamps,WIC"
+35691,2022-12-09,3º,jdeleon,Female,United States of America,2,White,No,Single Family House,Live with parents,No,No,No,No,No,Not applicable,1,High School/GED,High School/GED,20000,Employed Full-Time,"Food stamps,WIC"
+37105,2022-12-08,1º,jdeleon,Female,United States of America,5,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,No,0,Less than High School,Less than High School,20000,"Employed Full-Time,Unemployed",TANF
+37105,2023-04-24,2º,njaen,Female,United States of America,5,Other,,,,,,,,,,,,,,Other,
+35238,2022-12-08,1º,njaen,Female,United States of America,5,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,13879,Employed Full-Time,"Food stamps,WIC"
+35238,2023-04-24,2º,njaen,Female,United States of America,5,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Other,Food stamps
+156160,2021-11-05,1º,agarcia4,Female,United States of America,3,Other,Yes,Trailer/Mobile Home,Live with parents,No,No,Yes,No,No,No,1,Two-Year College Degree,Two-Year College Degree,15600,"Employed Full-Time,Unemployed","WIC,Food stamps"
+30979,2021-12-16,1º,vbryant,Female,United States of America,3,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,18550,Self-Employed,"Food stamps,Other"
+35407,2021-10-28,1º,agarcia4,Female,United States of America,6,White,No,Single Family House,Own my home,No,No,Yes,No,No,Yes,2,Graduate Degree,Four-Year College Degree,50000,"Employed Full-Time,Unemployed",None
+35407,2022-05-05,2º,agarcia4,Female,United States of America,6,White,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,2,High School/GED,Two-Year College Degree,10000,Employed Full-Time,None
+35238,2021-11-04,1º,vbryant,Female,United States of America,5,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,10000,"Employed Part-Time,In School","Food stamps,WIC"
+35238,2022-05-04,2º,vbryant,Female,United States of America,5,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,13879,Employed Full-Time,"Food stamps,WIC"
+37037,2022-11-28,1º,mespino,Female,United States of America,4,White,No,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,No,1,High School/GED,High School/GED,,Employed Full-Time,"WIC,Food stamps,Other"
+35119,2022-11-21,1º,kmacedo,Female,United States of America,3,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,7047,Employed Full-Time,"Food stamps,WIC"
+35119,2023-06-13,2º,kmacedo,Female,United States of America,3,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,7047,Employed Part-Time,Food stamps
+27060,2021-12-09,1º,agarcia4,Female,United States of America,6,White,Yes,Single Family House,Own my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,35000,Employed Full-Time,None
+36271,2022-12-08,1º,mespino,Female,United States of America,3,American Indian or Alaska Native,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,2,Two-Year College Degree,Two-Year College Degree,,Unemployed,"Food stamps,WIC,Other"
+36271,2023-03-31,2º,mespino,Female,United States of America,3,American Indian or Alaska Native,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,2,Two-Year College Degree,Two-Year College Degree,,Employed Full-Time,"Food stamps,Other"
+151484,2022-01-18,1º,alopez,Female,United States of America,4,White,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,Employed Full-Time,None
+151484,2022-05-05,2º,alopez,Female,United States of America,4,White,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,,Less than High School,Less than High School,,Employed Full-Time,Food stamps
+151484,2022-10-05,1º,alopez,Female,United States of America,4,White,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,34000,Employed Full-Time,"WIC,TANF"
+37170,2022-11-08,1º,snguyen,Female,Nicaragua,1,Other,Yes,Group Home,Live with another family,No,No,No,No,No,Yes,5,High School/GED,Four-Year College Degree,,Employed Full-Time,None
+23448,2022-10-05,1º,avanegasvelasquez,Female,United States of America,4,Other,Yes,Trailer/Mobile Home,Own my home,No,Yes,Yes,No,No,Yes,2,Four-Year College Degree,Four-Year College Degree,,"Employed Full-Time,Unemployed","WIC,Other"
+23448,2023-06-28,2º,avanegasvelasquez,Female,United States of America,4,Other,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,,"Employed Full-Time,Unemployed",Other
+36529,2022-12-08,1º,jdeleon,Female,United States of America,6,Black or African American,No,Single Family House,Rent my home,No,Yes,Yes,No,No,Yes,0,Less than High School,Less than High School,0,Retired,Food stamps
+15762,2022-11-29,1º,dgomezserrano,Female,Honduras,5,White,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,"Employed Full-Time,Stay-at-Home Caregiver",
+15762,2023-06-27,2º,snguyen,Female,Honduras,5,Other,Yes,Single Family House,Own my home,No,No,Yes,No,No,Yes,2,High School/GED,Four-Year College Degree,,"Stay-at-Home Caregiver,Independiente",WIC
+15923,2021-10-18,1º,nanderson,Female,United States of America,4,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,No,1,Two-Year College Degree,Two-Year College Degree,,"Stay-at-Home Caregiver,Unemployed",Food stamps
+15923,2022-05-05,2º,nanderson,Female,United States of America,4,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,No,1,Two-Year College Degree,Two-Year College Degree,,Employed Full-Time,Food stamps
+22932,2021-11-10,1º,ialba,Female,Mexico,4,White,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,Employed Full-Time,Food stamps
+22932,2022-05-09,2º,vbryant,Female,Mexico,4,Other,Yes,Single Family House,Own my home,No,No,No,No,No,Yes,1,High School/GED,High School/GED,15600,Employed Full-Time,"Food stamps,WIC"
+163882,2022-05-04,1º,njaen,Female,United States of America,5,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,11143,Other,
+25323,2022-12-08,1º,njaen,Female,United States of America,7,Black or African American,No,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Other,"Food stamps,WIC"
+25323,2023-04-24,2º,njaen,Female,United States of America,7,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,,,,,Other,Food stamps
+31757,2021-10-06,1º,snguyen,Female,Honduras,4,Other,Yes,Single Family House,Rent my home,No,Yes,Yes,No,No,Yes,0,Less than High School,Less than High School,,"Employed Full-Time,Unemployed",Disability
+31757,2022-05-04,2º,dgomezserrano,Female,Honduras,4,White,Yes,Single Family House,Rent my home,No,Yes,Yes,No,No,Yes,0,Less than High School,Less than High School,,Employed Full-Time,Social Security
+36780,2022-11-28,1º,swilliamson,Female,United States of America,3,Other,Yes,Single Family House,Own my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,25000,Employed Full-Time,"Food stamps,WIC"
+170963,2022-11-15,1º,yliaogomez,Female,United States of America,3,White,Yes,Trailer/Mobile Home,Rent my home,No,No,No,No,No,Yes,,High School/GED,High School/GED,,Unemployed,Food stamps
+170963,2022-11-16,2º,yliaogomez,Female,United States of America,3,,,,,,,,,,,,,,,,
+170431,2022-12-08,1º,yliaogomez,Female,United States of America,3,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Part-Time,Food stamps
+170431,2023-06-13,2º,yliaogomez,Female,United States of America,3,,,,,,,,,,,,,,,,
+36746,2023-01-31,1º,yliaogomez,Female,United States of America,4,Black or African American,No,Single Family House,Temporary housing/shelter,No,No,No,No,No,Yes,1,High School/GED,High School/GED,,Unemployed,"Food stamps,WIC"
+36746,2023-06-13,2º,yliaogomez,Female,United States of America,4,,,,,,,,,,,,,,,,
+35190,2021-11-10,1º,mespino,Female,United States of America,2,Native Hawaiian or Other Pacific Islander,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,No,0,Less than High School,Less than High School,,Unemployed,"Food stamps,Other"
+35190,2022-07-06,2º,mespino,Female,United States of America,2,,,,,,,,,,,,,,,,
+16347,2021-11-09,1º,mespino,Female,United States of America,4,White,No,Single Family House,Own my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,,Employed Part-Time,Food stamps
+16347,2022-05-06,2º,mespino,Female,United States of America,4,,,,,,,,,,,,,,,,
+4,2021-03-11,1º,jrobinson,Female,United States of America,3,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,"Unemployed,Stay-at-Home Caregiver","WIC,Food stamps"
+4,2021-05-27,2º,telamon_jetoya,Female,United States of America,3,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Unemployed,"Food stamps,WIC"
+161034,2021-11-11,1º,njaen,Female,United States of America,3,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,18559,Other,"Food stamps,WIC"
+161034,2022-05-05,2º,njaen,Female,United States of America,3,Black or African American,No,Single Family House,Own my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,,Other,Food stamps
+31761,2021-11-08,1º,vbryant,Female,United States of America,4,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,19757,Employed Full-Time,"Food stamps,WIC"
+31761,2022-05-06,2º,vbryant,Female,United States of America,4,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,6829,Employed Part-Time,"Food stamps,WIC"
+36708,2022-09-29,1º,mespino,Female,United States of America,5,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,No,2,Two-Year College Degree,Two-Year College Degree,,Employed Full-Time,None
+36708,2023-04-21,2º,mespino,Female,United States of America,5,,,,,,,,,,,,,,,,
+26391,2022-01-21,1º,vbryant,Female,United States of America,6,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,23320,"Unemployed,Self-Employed","Food stamps,WIC"
+26391,2022-05-05,2º,vbryant,Female,United States of America,6,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,22880,Employed Full-Time,"Food stamps,WIC"
+26391,2022-11-29,3º,njaen,Female,United States of America,6,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,23760,Employed Full-Time,"Food stamps,WIC"
+26391,2023-04-24,4º,njaen,Female,United States of America,6,Other,Yes,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,,,Other,Food stamps
+3275,2021-11-10,1º,vbryant,Female,United States of America,6,White,No,Single Family House,Live with partner in their home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,0,"Stay-at-Home Caregiver,Unemployed","Food stamps,WIC"
+26079,2021-11-11,1º,ialba,Female,United States of America,6,"American Indian or Alaska Native,White",Yes,Single Family House,Own my home,No,Yes,No,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,,"Unemployed,Retired",Food stamps
+2,2020-12-04,1º,jrobinson,Female,United States of America,3,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,,,Employed Full-Time,Food stamps
+2,2021-03-19,2º,telamon_jetoya,Female,United States of America,3,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,,Employed Full-Time,None
+29042,2021-12-09,1º,agarcia4,Female,United States of America,3,White,Yes,Single Family House,Own my home,No,Yes,Yes,No,No,Yes,1,High School/GED,High School/GED,12000,"Employed Full-Time,Self-Employed","Food stamps,Disability"
+29042,2022-05-05,2º,agarcia4,Female,United States of America,3,White,Yes,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,25000,Employed Full-Time,"Food stamps,WIC"
+34904,2021-11-12,1º,mespino,Female,United States of America,4,Native Hawaiian or Other Pacific Islander,Yes,Trailer/Mobile Home,Rent my home,No,Yes,Yes,No,No,Yes,0,Less than High School,Less than High School,,Unemployed,"Social Security,Food stamps,WIC,Other"
+34904,2022-05-06,2º,mespino,Female,United States of America,4,,,,,,,,,,,,,,,,
+35590,2021-11-15,1º,mespino,Female,United States of America,3,Other,Yes,Transitional Housing,Rent my home,No,No,Yes,No,No,Not applicable,2,High School/GED,High School/GED,,Unemployed,"Food stamps,WIC"
+31063,2021-11-10,1º,ialba,Male,United States of America,2,Black or African American,No,Transitional Housing,Live with parents,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,Employed Full-Time,Food stamps
+31063,2022-05-09,2º,vbryant,Male,United States of America,2,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,15876,Employed Full-Time,"Food stamps,WIC"
+27015,2022-10-05,1º,avanegasvelasquez,Female,United States of America,7,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,2,High School/GED,Less than High School,,"Employed Full-Time,Unemployed","WIC,Food stamps,Other"
+27015,2023-06-29,2º,avanegasvelasquez,Female,United States of America,7,Other,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,"Employed Full-Time,Unemployed","Food stamps,WIC,Other"
+37183,2023-03-27,1º,yliaogomez,Female,United States of America,4,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,None
+135332,2022-07-06,1º,yliaogomez,Female,United States of America,5,,,,,,,,,,No,2,High School/GED,High School/GED,,Employed Full-Time,None
+32062,2021-10-05,1º,mmarquez1,Female,Mexico,8,Other,Yes,Casa de ladrillo,Rent my home,No,No,Yes,No,No,Yes,,Less than High School,Less than High School,,Employed Full-Time,"Food stamps,WIC"
+32062,2022-05-04,2º,mmarquez1,Female,Mexico,8,,Yes,Casa,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,Employed Full-Time,"Food stamps,WIC,Other"
+175279,2023-03-13,1º,mmassey,Female,United States of America,3,Other,Yes,Trailer/Mobile Home,Live with another family,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,25000,Employed Full-Time,WIC
+26186,2022-06-07,1º,vbryant,Female,United States of America,4,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,0,Unemployed,"Food stamps,WIC"
+26186,2022-07-11,2º,vbryant,Female,United States of America,4,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,0,Unemployed,"Food stamps,WIC"
+26186,2022-11-29,3º,njaen,Female,United States of America,4,"White,Other",Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,0,Employed Full-Time,"Food stamps,WIC"
+26186,2023-04-24,4º,njaen,Female,United States of America,4,Other,Yes,,,No,No,Yes,No,No,,,,,,Other,Food stamps
+165833,2023-03-28,1º,alopez,Female,United States of America,5,White,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,32000,Employed Full-Time,Food stamps
+81444,2022-12-06,1º,yliaogomez,Female,United States of America,3,White,Yes,Single Family House,Live with parents,No,No,Yes,No,Prefer not to say,Yes,1,Two-Year College Degree,Two-Year College Degree,,In School,"Food stamps,WIC"
+81444,2023-06-29,2º,yliaogomez,Female,United States of America,3,,,,,,,,,,,,,,,,
+28842,2021-12-09,1º,agarcia4,Female,United States of America,6,White,Yes,Apartment/Condominium,Own my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,35000,Employed Full-Time,None
+28842,2022-05-05,2º,agarcia4,Female,United States of America,6,White,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,20000,Employed Full-Time,None
+23607,2021-11-16,1º,ialba,Female,United States of America,7,White,Yes,Single Family House,Own my home,No,No,Yes,No,No,Yes,2,Two-Year College Degree,Two-Year College Degree,,Employed Full-Time,
+23607,2022-05-09,2º,vbryant,Female,United States of America,7,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,33639,Employed Full-Time,"Food stamps,WIC"
+23607,2022-12-08,3º,jdeleon,Female,United States of America,6,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,33639,Employed Full-Time,Food stamps
+23607,2023-04-24,4º,njaen,Female,United States of America,6,Other,,,,,,,,,,,,,,,
+75684,2022-11-29,1º,yliaogomez,Female,United States of America,6,American Indian or Alaska Native,Yes,Single Family House,Own my home,No,No,Yes,No,No,Yes,2,Four-Year College Degree,High School/GED,,Employed Part-Time,
+37095,2022-11-15,1º,jdeleon,Female,United States of America,3,Black or African American,No,Single Family House,Own my home,No,Yes,Yes,No,No,Not applicable,2,Two-Year College Degree,Four-Year College Degree,35000,Retired,"Disability,Social Security"
+37095,2023-04-24,2º,njaen,Female,United States of America,3,Other,,,,,,,,,,,,,,,
+108037,2022-12-07,1º,yliaogomez,Male,United States of America,3,White,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Unemployed,"Food stamps,WIC"
+108037,2023-06-20,2º,yliaogomez,Male,United States of America,3,,,,,,,,,,,,,,,,
+34881,2021-11-04,1º,vbryant,Female,United States of America,5,Black or African American,No,Single Family House,Rent my home,No,Yes,Yes,No,No,Yes,2,High School/GED,High School/GED,,Unemployed,"Food stamps,Social Security,WIC,Disability"
+34881,2022-07-11,2º,vbryant,Female,United States of America,5,Black or African American,No,Single Family House,Rent my home,No,Yes,Yes,No,No,Yes,1,High School/GED,High School/GED,11592,Employed Full-Time,"Food stamps,WIC"
+32019,2022-02-22,1º,vsanchezlopez,Female,United States of America,6,White,No,Single Family House,Own my home,Yes,Yes,Yes,No,No,Yes,5,High School/GED,High School/GED,,Unemployed,"Food stamps,Disability,Social Security,WIC"
+32019,2022-05-06,2º,vsanchezlopez,Female,United States of America,6,White,No,Single Family House,Live with parents,No,Yes,Yes,No,No,Yes,3,High School/GED,High School/GED,,Unemployed,"WIC,Food stamps,Disability"
+32019,2022-11-15,3º,qalamin,Female,United States of America,6,White,No,Single Family House,Live with parents,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,,Stay-at-Home Caregiver,"Food stamps,WIC,Social Security"
+36845,2022-12-19,1º,jdeleon,Female,United States of America,4,Black or African American,No,Single Family House,Rent my home,No,Yes,Yes,No,No,Not applicable,1,High School/GED,High School/GED,20000,Other,"Disability,Other"
+147248,2021-11-08,1º,njaen,Female,United States of America,4,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,4078,Employed Part-Time,"Food stamps,WIC"
+16169,2022-10-05,1º,kmacedo,Female,United States of America,6,Other,Yes,Trailer/Mobile Home,Husband job comes with home to live.,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,0,"Employed Full-Time,Unemployed,In School",Food stamps
+27015,2022-05-02,1º,avanegasvelasquez,Female,United States of America,7,Other,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,0,High School/GED,High School/GED,,"Employed Full-Time,Unemployed",None
+27015,2022-07-19,2º,avanegasvelasquez,Female,United States of America,7,Other,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,Employed Full-Time,Food stamps
+35506,2021-11-11,1º,njaen,Female,United States of America,3,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,13532,Other,"Food stamps,WIC"
+35506,2022-05-05,2º,njaen,Female,United States of America,3,Black or African American,No,,,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,13520,Employed Full-Time,Food stamps
+37261,2023-01-12,1º,njaen,Male,United States of America,3,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Employed Full-Time,"Food stamps,WIC"
+163235,2021-10-28,1º,mespino,Female,United States of America,6,White,No,Single Family House,Rent my home,No,Yes,Yes,No,No,Yes,2,High School/GED,Two-Year College Degree,30000,"Stay-at-Home Caregiver,Employed Full-Time","Food stamps,WIC"
+163235,2022-05-06,2º,mespino,Female,United States of America,6,White,No,Single Family House,Rent my home,No,Prefer not to say,Yes,Prefer not to say,No,,,,,,,
+163235,2022-12-06,3º,mespino,Female,United States of America,6,White,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,2,Two-Year College Degree,Two-Year College Degree,,Unemployed,"Food stamps,WIC,Other"
+163235,2023-04-06,4º,mespino,Female,United States of America,6,White,No,Single Family House,Rent my home,No,No,Yes,No,No,,,,,,Unemployed,"Food stamps,None"
+6,2021-03-19,1º,telamon_jetoya,Female,United States of America,3,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,,1,High School/GED,High School/GED,,Unemployed,"Food stamps,WIC"
+6,2021-05-27,2º,telamon_jetoya,Female,United States of America,3,Black or African American,,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,,Employed Part-Time,"Food stamps,WIC"
+27966,2021-11-03,1º,kmacedo,Female,United States of America,3,Black or African American,No,Apartment/Condominium,Live with parents,No,Yes,Yes,No,No,No,1,High School/GED,High School/GED,,Employed Part-Time,"Food stamps,Social Security"
+36548,2022-12-08,1º,kmacedo,Female,United States of America,5,Other,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,,2,High School/GED,High School/GED,26000,"Employed Full-Time,Unemployed","Food stamps,WIC"
+36548,2023-06-12,2º,kmacedo,Female,United States of America,5,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,26000,"Employed Full-Time,Unemployed",Food stamps
+31203,2021-12-09,1º,agarcia4,Female,United States of America,6,White,Yes,Trailer/Mobile Home,Rent my home,No,No,No,No,Prefer not to say,Yes,1,High School/GED,High School/GED,14000,Employed Full-Time,Food stamps
+31203,2022-05-05,2º,agarcia4,Female,United States of America,6,White,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,2,Two-Year College Degree,Less than High School,14000,Employed Full-Time,Food stamps
+26191,2021-11-10,1º,vbryant,Female,United States of America,5,White,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,27000,Employed Full-Time,"Food stamps,WIC"
+26191,2022-05-13,2º,vbryant,Female,United States of America,5,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,26285,Employed Full-Time,"Food stamps,WIC"
+26191,2022-12-12,3º,njaen,Female,United States of America,5,Other,Yes,Single Family House,Rent my home,Yes,No,Yes,No,No,Yes,2,High School/GED,High School/GED,25900,Employed Full-Time,WIC
+26191,2023-04-24,4º,njaen,Female,United States of America,5,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,,,,,,Other,Food stamps
+33967,2022-11-15,1º,yliaogomez,Female,United States of America,4,White,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,25000,Employed Part-Time,"WIC,Food stamps"
+12082,2021-11-05,1º,nanderson,Female,United States of America,4,Black or African American,Yes,Single Family House,Own my home,No,No,Yes,Yes,No,Yes,1,Two-Year College Degree,High School/GED,20000,Employed Full-Time,WIC
+12082,2022-05-09,2º,vbryant,Female,United States of America,4,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,3478,Employed Part-Time,"Food stamps,WIC"
+37313,2023-02-14,1º,njaen,Female,United States of America,2,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Employed Full-Time,"Food stamps,WIC"
+13442,2022-12-09,1º,jdeleon,Female,United States of America,6,Black or African American,No,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,20000,Employed Full-Time,Other
+13442,2023-04-24,2º,njaen,Female,United States of America,6,,,,,,,,,,,,,,,,
+32568,2021-10-19,1º,kmacedo,Female,United States of America,5,,No,Single Family House,Own my home,No,Yes,Yes,No,No,Yes,1,High School/GED,High School/GED,8000,Employed Full-Time,"Social Security,Food stamps,Disability"
+32568,2022-05-02,2º,kmacedo,Female,United States of America,5,Black or African American,No,Single Family House,Own my home,No,Yes,Yes,No,No,Yes,1,High School/GED,High School/GED,8000,Employed Full-Time,"Social Security,Food stamps,Disability"
+171953,2022-11-22,1º,yliaogomez,Female,United States of America,7,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,Prefer not to say,Yes,2,High School/GED,High School/GED,27000,Employed Full-Time,Food stamps
+171953,2023-03-27,2º,yliaogomez,Female,United States of America,7,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,Prefer not to say,Yes,2,High School/GED,High School/GED,,Employed Full-Time,"Food stamps,WIC"
+27323,2021-12-09,1º,agarcia4,Female,United States of America,4,White,Yes,Single Family House,Own my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,14000,"Employed Full-Time,In School",
+27323,2022-11-28,1º,mespino,Female,United States of America,4,White,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,2,Two-Year College Degree,Two-Year College Degree,,Employed Part-Time,Other
+126827,2021-11-11,1º,njaen,Female,United States of America,4,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,6254,Other,"Food stamps,WIC"
+172555,2022-12-13,1º,njaen,Female,United States of America,3,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,0,Employed Full-Time,"Food stamps,WIC"
+172555,2023-04-24,2º,njaen,Female,United States of America,3,Black or African American,,,,,,,,,,,,,,,
+3,2020-12-04,1º,jrobinson,Female,United States of America,2,Black or African American,No,Apartment/Condominium,Rent my home,No,No,No,No,Prefer not to say,Yes,1,Less than High School,Less than High School,,Employed Full-Time,Food stamps
+3,2021-05-27,2º,telamon_jetoya,Female,United States of America,2,Black or African American,No,Apartment/Condominium,Rent my home,No,No,No,No,No,,,,,,Employed Full-Time,Food stamps
+26891,2021-11-17,1º,agarcia4,Female,United States of America,1,Black or African American,No,Apartment/Condominium,Live with parents,No,No,No,No,No,No,1,High School/GED,High School/GED,,Unemployed,"Food stamps,WIC"
+163502,2021-11-17,1º,agarcia4,Female,United States of America,1,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,Prefer not to say,Yes,1,High School/GED,Two-Year College Degree,,Employed Full-Time,"Food stamps,WIC"
+163502,2022-05-05,2º,agarcia4,Female,United States of America,1,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,7000,Employed Full-Time,"Food stamps,WIC"
+23517,2022-10-03,1º,mespino,Female,United States of America,4,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,Food stamps
+23517,2023-04-18,2º,mespino,Female,United States of America,4,,,,,,,,,,,,,,,,
+36728,2022-11-29,1º,mespino,Female,United States of America,4,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,,Employed Full-Time,"Food stamps,WIC,Other"
+37224,2023-03-08,1º,tmcduffie,Female,United States of America,2,White,No,Single Family House,Own my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,10000,"In School,Unemployed",Food stamps
+36528,2022-12-08,1º,jdeleon,Female,United States of America,2,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,16792,Employed Full-Time,"Food stamps,WIC"
+36441,2022-08-31,1º,kmacedo,Female,United States of America,3,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,No,1,High School/GED,High School/GED,,Unemployed,Food stamps
+36441,2023-06-29,2º,kmacedo,Female,United States of America,3,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Unemployed,Food stamps
+3148,2021-11-11,1º,vbryant,Female,United States of America,7,Black or African American,No,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,10400,Employed Full-Time,"Food stamps,Other"
+3148,2022-05-05,2º,vbryant,Female,United States of America,7,Black or African American,No,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,10400,Employed Part-Time,"Food stamps,WIC"
+36876,2022-12-07,1º,kmacedo,Female,United States of America,6,White,No,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Employed Full-Time,None
+36876,2023-05-08,2º,kmacedo,Female,United States of America,6,White,No,Single Family House,Own my home,No,No,Yes,No,No,Yes,,High School/GED,High School/GED,,Employed Full-Time,None
+36074,2022-02-08,1º,vbryant,Female,United States of America,3,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Unemployed,None
+36074,2022-05-04,2º,vbryant,Female,United States of America,3,Black or African American,No,Trailer/Mobile Home,Homeless,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Unemployed,"Food stamps,WIC"
+37223,2023-03-22,1º,yliaogomez,Female,United States of America,2,Black or African American,No,Trailer/Mobile Home,Rent my home,No,No,Yes,No,Prefer not to say,No,1,High School/GED,High School/GED,,Unemployed,Food stamps
+37223,2023-04-24,2º,yliaogomez,Female,United States of America,2,,,,,,,,,,,,,,,,
+30764,2021-09-29,1º,snguyen,Female,El Salvador,4,Other,Yes,Transitional Housing,Live with another family,Yes,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,"Employed Part-Time,Employed Full-Time",WIC
+30764,2022-05-03,2º,snguyen,Female,El Salvador,4,Other,Yes,Transitional Housing,Rent my home,Yes,No,Yes,No,No,Yes,2,High School/GED,Less than High School,30000,"Employed Full-Time,Employed Part-Time",WIC
+18783,2022-02-01,1º,kmacedo,Female,United States of America,4,Black or African American,No,Single Family House,Own my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,4100,"Employed Part-Time,In School",Food stamps
+18783,2022-05-03,2º,kmacedo,Female,United States of America,4,Black or African American,No,Single Family House,Own my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,4100,"Employed Part-Time,In School",Food stamps
+172587,2022-10-07,1º,alopez,Female,United States of America,6,White,Yes,Single Family House,Own my home,No,No,Yes,No,No,Yes,2,Two-Year College Degree,Two-Year College Degree,34000,Employed Full-Time,"Food stamps,WIC"
+29056,2022-05-14,1º,vbryant,Female,United States of America,3,Other,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,7900,Employed Part-Time,"Food stamps,WIC"
+26980,2021-11-11,1º,ialba,Female,United States of America,3,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,Food stamps
+26980,2022-05-03,2º,vbryant,Female,United States of America,3,Black or African American,No,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,13986,Employed Full-Time,"Food stamps,WIC"
+154177,2023-03-24,1º,mmassey,Female,United States of America,3,Other,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,20000,Employed Full-Time,Food stamps
+153756,2021-11-04,1º,swilliamson,Female,United States of America,5,White,No,Single Family House,Live with partner in their home,No,No,Yes,No,No,Yes,3,High School/GED,Two-Year College Degree,,Unemployed,"Food stamps,WIC"
+36815,2022-12-15,1º,jdeleon,Female,United States of America,4,Black or African American,No,Single Family House,Own my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,,"Employed Full-Time,Retired","Social Security,Disability"
+36815,2023-04-24,2º,njaen,Female,United States of America,4,Other,,,,,,,,,,,,,,,
+27900,2022-01-20,1º,vbryant,Female,United States of America,4,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,17746,Employed Full-Time,"Food stamps,WIC"
+27900,2022-05-04,2º,vbryant,Female,United States of America,4,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,19590,Employed Full-Time,"Food stamps,WIC"
+36098,2022-06-07,1º,vbryant,Female,United States of America,5,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,4923,Employed Part-Time,"Food stamps,WIC"
+36098,2022-07-11,2º,vbryant,Female,United States of America,5,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,4923,Employed Part-Time,"Food stamps,WIC"
+36950,2022-11-28,1º,mespino,Female,United States of America,6,,,,,,,,,No,No,2,Two-Year College Degree,Two-Year College Degree,,Stay-at-Home Caregiver,Other
+36950,2023-04-21,2º,mespino,Female,United States of America,6,,,,,,,,,,,,,,,,
+30379,2021-11-05,1º,kmacedo,Female,United States of America,4,Black or African American,No,Single Family House,Live with another family,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,Food stamps
+30379,2022-05-02,2º,kmacedo,Female,United States of America,4,Black or African American,No,Trailer/Mobile Home,Live with parents,No,No,Yes,No,No,Yes,,High School/GED,Less than High School,,"Unemployed,Employed Part-Time",None
+24269,2021-11-10,1º,vbryant,Female,United States of America,5,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,25650,Employed Full-Time,"Food stamps,WIC"
+24269,2022-05-16,2º,vbryant,Female,United States of America,5,Black or African American,No,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,29495,Employed Full-Time,"Food stamps,WIC"
+24269,2022-11-29,3º,njaen,Female,United States of America,5,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,29495,Employed Full-Time,WIC
+24269,2023-04-24,4º,njaen,Female,United States of America,5,Black or African American,No,,,No,No,Yes,No,No,,,,,,Employed Full-Time,Food stamps
+33072,2022-12-15,1º,jdeleon,Female,United States of America,2,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Not applicable,1,High School/GED,High School/GED,25000,Employed Full-Time,"Food stamps,WIC"
+33072,2023-04-24,2º,njaen,Female,United States of America,2,Other,,,,,,,,,,,,,,,
+3305,2022-11-29,1º,njaen,Female,United States of America,4,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,26166,Employed Full-Time,WIC
+3305,2023-04-24,2º,njaen,Female,United States of America,4,Black or African American,,,,,,,,,,,,,,,
+147633,2021-11-09,1º,njaen,Female,United States of America,2,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Employed Part-Time,"Food stamps,WIC"
+147633,2022-05-03,2º,njaen,Female,United States of America,2,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,Food stamps
+31486,2021-11-04,1º,agarcia4,Female,United States of America,6,White,No,Trailer/Mobile Home,Rent my home,No,Yes,Yes,No,No,No,1,Less than High School,High School/GED,20000,"Employed Full-Time,Unemployed","Disability,Food stamps,WIC"
+31486,2022-05-05,2º,agarcia4,Female,United States of America,6,White,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,30000,Unemployed,None
+36141,2022-05-05,1º,vbryant,Female,United States of America,3,Black or African American,No,Single Family House,Live with parents,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Unemployed,"Food stamps,WIC"
+36141,2022-05-05,2º,vbryant,Female,United States of America,3,Black or African American,No,Single Family House,Live with parents,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Unemployed,"Food stamps,WIC"
+36141,2022-11-29,3º,njaen,Female,United States of America,3,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,"Employed Full-Time,In School","Food stamps,WIC"
+36141,2023-04-24,4º,njaen,Female,United States of America,3,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Other,Food stamps
+35840,2021-10-21,1º,nanderson,Female,United States of America,3,Black or African American,No,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,No,1,Less than High School,High School/GED,15000,Employed Full-Time,Food stamps
+35840,2022-05-03,2º,nanderson,Female,United States of America,3,Black or African American,No,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,No,1,Less than High School,High School/GED,15000,Employed Full-Time,Food stamps
+35695,2021-11-09,1º,mespino,Female,United States of America,3,Native Hawaiian or Other Pacific Islander,Yes,Single Family House,Live with another family,No,No,No,No,No,Not applicable,1,High School/GED,High School/GED,,Unemployed,None
+35695,2022-07-06,2º,mespino,Female,United States of America,3,,,,,,,,,,,,,,,,
+13342,2022-01-28,1º,kmacedo,Female,United States of America,4,White,Yes,Single Family House,Rent my home,No,No,No,No,No,No,0,Less than High School,Less than High School,9888,Employed Part-Time,Food stamps
+13342,2022-05-03,2º,kmacedo,Female,United States of America,4,White,Yes,Single Family House,Rent my home,No,No,Yes,No,No,No,0,Less than High School,Less than High School,9888,Employed Part-Time,Food stamps
+13342,2022-10-07,3º,kmacedo,Female,United States of America,4,White,Yes,Single Family House,Rent my home,No,No,No,No,No,Yes,1,Less than High School,Less than High School,30000,Employed Full-Time,Food stamps
+13342,2023-04-27,4º,kmacedo,Female,United States of America,4,"White,Black or African American",Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,Food stamps
+18179,2022-11-29,1º,njaen,Female,United States of America,3,Black or African American,No,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Employed Full-Time,"Food stamps,WIC"
+18179,2023-04-24,2º,njaen,Female,United States of America,3,Black or African American,No,,,No,No,,No,No,,,,,,Employed Full-Time,Food stamps
+118517,2021-11-11,1º,njaen,Female,United States of America,5,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,11990,Other,"WIC,Food stamps"
+27918,2021-10-25,1º,kmacedo,Female,United States of America,3,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,No,1,Four-Year College Degree,Four-Year College Degree,20000,Employed Full-Time,Food stamps
+27918,2022-05-04,2º,kmacedo,Female,United States of America,3,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,No,1,Four-Year College Degree,Four-Year College Degree,20000,Employed Full-Time,Food stamps
+27918,2022-10-24,3º,kmacedo,Female,United States of America,3,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,5873,Employed Part-Time,"Food stamps,WIC"
+33776,2021-11-10,1º,qalamin,Female,United States of America,1,Black or African American,No,Trailer/Mobile Home,Live with another family,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,"Food stamps,WIC"
+33776,2022-05-05,2º,qalamin,Female,United States of America,1,Black or African American,No,Trailer/Mobile Home,Live with another family,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,17000,Employed Full-Time,"Food stamps,WIC"
+33776,2022-11-29,1º,njaen,Female,United States of America,6,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,1716132,Employed Full-Time,"Food stamps,WIC"
+33776,2023-04-21,2º,njaen,Female,United States of America,6,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Other,"Food stamps,WIC"
+33776,2023-04-24,3º,njaen,Female,United States of America,6,Black or African American,,,,,,,,,,,,,,Employed Full-Time,
+36603,2023-01-31,1º,yliaogomez,Female,United States of America,3,Black or African American,No,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,,,Employed Full-Time,"Food stamps,WIC"
+36063,2022-07-06,1º,mespino,Female,United States of America,3,Black or African American,No,,,No,No,Yes,Prefer not to say,Prefer not to say,,,,,,Employed Full-Time,Other
+36063,2022-07-06,2º,mespino,Female,United States of America,3,,,,,,,,,,,,,,,,
+36063,2023-01-24,3º,mespino,Female,United States of America,3,Black or African American,No,Single Family House,Live with parents,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,Other
+36063,2023-04-21,4º,mespino,Female,United States of America,3,,,,,,,,,,,,,,,,
+85725,2022-11-28,1º,yliaogomez,Female,United States of America,4,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,Prefer not to say,Yes,0,Less than High School,Less than High School,,Employed Part-Time,Food stamps
+14934,2021-11-11,1º,vbryant,Female,United States of America,4,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,11524,Unemployed,"Food stamps,WIC"
+14934,2022-05-06,2º,vbryant,Female,United States of America,4,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,7789,Employed Part-Time,"Food stamps,WIC"
+14934,2022-11-29,3º,njaen,Female,United States of America,4,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,7789,Employed Full-Time,"Food stamps,WIC"
+14934,2023-04-24,4º,njaen,Female,United States of America,4,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Other,Food stamps
+14934,2023-04-24,5º,njaen,Female,United States of America,4,Other,No,,,No,No,Yes,No,No,,,,,,Other,Food stamps
+36863,2023-01-12,1º,njaen,Female,United States of America,4,"Black or African American,Other",Yes,Single Family House,Rent my home,No,No,Yes,Yes,No,Yes,2,Two-Year College Degree,Two-Year College Degree,0,Employed Part-Time,"Food stamps,WIC"
+36863,2023-04-24,2º,njaen,Female,United States of America,4,"Black or African American,Other",Yes,Single Family House,,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Other,Food stamps
+30368,2022-11-30,1º,kmacedo,Female,United States of America,5,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,Less than High School,High School/GED,0,Employed Full-Time,"WIC,Food stamps"
+32996,2021-11-09,1º,vbryant,Female,United States of America,2,Black or African American,No,living with family,Temporary housing/shelter,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Unemployed,"Food stamps,WIC,Other"
+32996,2022-05-03,2º,vbryant,Female,United States of America,2,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Unemployed,"Food stamps,WIC"
+35393,2022-11-29,1º,njaen,Female,United States of America,3,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,"Food stamps,WIC"
+35393,2023-04-24,2º,njaen,Female,United States of America,3,Black or African American,,,,,,,,,,,,,,,
+172408,2022-11-22,1º,yliaogomez,Female,United States of America,2,White,Yes,Trailer/Mobile Home,Rent my home,No,No,No,No,No,,,,,,Employed Part-Time,"Food stamps,WIC"
+172408,2023-04-21,2º,yliaogomez,Female,United States of America,2,White,Yes,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,In School,"Food stamps,WIC"
+6,2021-03-12,1º,jrobinson,Non-binary/third gender,United States of America,3,Black or African American,No,Single Family House,Own my home,No,Yes,Yes,No,No,,1,Four-Year College Degree,Four-Year College Degree,,Employed Full-Time,
+6,2021-05-27,2º,telamon_jetoya,Non-binary/third gender,United States of America,3,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,
+20447,2021-11-10,1º,vbryant,Female,United States of America,5,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,17858,Employed Full-Time,"Food stamps,WIC"
+20447,2022-05-09,2º,vbryant,Female,United States of America,5,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,17858,Employed Full-Time,"Food stamps,WIC"
+32785,2021-11-08,1º,vbryant,Female,United States of America,2,Black or African American,No,Single Family House,Live with parents,No,No,Yes,No,No,Yes,1,Four-Year College Degree,Four-Year College Degree,10000,Employed Full-Time,Food stamps
+32785,2022-05-06,2º,vbryant,Female,United States of America,2,Black or African American,No,Single Family House,Homeless,Yes,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,0,Unemployed,"Food stamps,WIC"
+32785,2022-11-29,3º,njaen,Female,United States of America,2,Black or African American,No,Single Family House,Live with another family,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Unemployed,"Food stamps,WIC"
+32785,2023-04-24,4º,njaen,Female,United States of America,2,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Other,Food stamps
+37139,2022-11-22,1º,jdeleon,Female,United States of America,5,Black or African American,No,Apartment/Condominium,Rent my home,No,Yes,Yes,No,No,Not applicable,2,Two-Year College Degree,Two-Year College Degree,15000,"In School,Employed Part-Time","Food stamps,WIC"
+37139,2023-04-24,2º,njaen,Female,United States of America,5,Other,,,,,,,,,,,,,,,
+35673,2021-11-10,1º,mespino,Female,United States of America,2,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Not applicable,1,High School/GED,High School/GED,,Unemployed,"Food stamps,WIC"
+35673,2022-05-06,2º,mespino,Female,United States of America,2,Black or African American,No,,,,,,,,,,,,,,
+37092,2022-12-12,1º,njaen,Female,United States of America,3,Black or African American,No,Apartment/Condominium,Live with another family,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,0,Other,"WIC,Food stamps"
+37092,2023-04-24,2º,njaen,Female,United States of America,3,Other,No,,,,,,,,,,,,,,
+126256,2023-01-30,1º,yliaogomez,Female,United States of America,7,Black or African American,No,Trailer/Mobile Home,Own my home,Yes,Yes,Yes,No,Prefer not to say,Yes,3,Two-Year College Degree,Two-Year College Degree,,Stay-at-Home Caregiver,"WIC,Disability,None"
+28678,2021-11-04,1º,swilliamson,Female,United States of America,6,Black or African American,No,Trailer/Mobile Home,Own my home,No,Yes,Yes,No,No,Yes,2,Two-Year College Degree,Two-Year College Degree,,"Stay-at-Home Caregiver,Unemployed","Food stamps,WIC,Social Security"
+18274,2022-11-29,1º,qalamin,Female,United States of America,5,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,"Food stamps,WIC"
+36862,2023-02-01,1º,yliaogomez,Female,United States of America,2,Black or African American,No,Single Family House,Live with parents,No,No,Yes,No,Prefer not to say,Yes,1,Two-Year College Degree,Two-Year College Degree,,"Employed Full-Time,In School","Food stamps,WIC"
+36862,2023-06-12,2º,yliaogomez,Female,United States of America,2,,,,,,,,,,,,,,,,
+157630,2022-11-28,1º,yliaogomez,Male,United States of America,5,Black or African American,Yes,Trailer/Mobile Home,Live with parents,No,No,No,No,No,Yes,1,High School/GED,High School/GED,,Stay-at-Home Caregiver,"Food stamps,WIC"
+33535,2021-11-08,1º,kmacedo,Male,United States of America,2,White,No,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,1,High School/GED,,9600,Retired,"Food stamps,Other"
+33535,2022-05-03,2º,kmacedo,Male,United States of America,2,White,No,Trailer/Mobile Home,Own my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,9600,Retired,"Food stamps,Other"
+167358,2022-05-05,1º,njaen,Female,United States of America,4,Black or African American,No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,,Other,Food stamps
+139990,2023-05-08,1º,tmcduffie,Male,Mexico,5,,,,,,,,,,,,,,,,
+28995,2021-10-27,1º,nanderson,Female,United States of America,4,"White,American Indian or Alaska Native",No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,,"Employed Full-Time,Stay-at-Home Caregiver",None
+28995,2022-05-02,2º,nanderson,Female,United States of America,4,"White,American Indian or Alaska Native",No,Single Family House,Rent my home,No,No,Yes,No,No,Yes,2,High School/GED,High School/GED,,"Employed Full-Time,Stay-at-Home Caregiver",None
+35412,2022-01-21,1º,vbryant,Female,United States of America,2,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,11062,"Unemployed,Other","Food stamps,WIC,Other"
+35412,2022-05-05,2º,vbryant,Female,United States of America,2,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,17936,Unemployed,"Food stamps,WIC"
+35412,2022-11-29,3º,njaen,Female,United States of America,2,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,17936,Employed Full-Time,"WIC,Food stamps"
+35412,2023-04-24,4º,njaen,Female,United States of America,2,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,,,,,Other,Food stamps
+35183,2021-10-18,1º,nanderson,Female,United States of America,3,Black or African American,No,Apartment/Condominium,Rent my home,No,Prefer not to say,Yes,Prefer not to say,Prefer not to say,No,2,High School/GED,High School/GED,10000,Employed Full-Time,Food stamps
+35183,2022-05-05,2º,nanderson,Female,United States of America,3,Black or African American,No,Apartment/Condominium,Rent my home,No,Prefer not to say,Yes,Prefer not to say,Prefer not to say,No,2,High School/GED,High School/GED,10000,Employed Full-Time,Food stamps
+35183,2022-09-27,3º,kmacedo,Female,United States of America,3,Black or African American,No,Trailer/Mobile Home,Live with parents,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,0,Unemployed,None
+35183,2023-05-08,4º,kmacedo,Female,United States of America,3,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,,High School/GED,High School/GED,,Employed Part-Time,Food stamps
+3103,2023-03-24,1º,mespino,Female,United States of America,3,Black or African American,No,Single Family House,Live with another family,No,No,No,No,No,Yes,1,High School/GED,High School/GED,,In School,"WIC,Other,Food stamps"
+3254,2021-11-10,1º,ialba,Female,United States of America,5,White,Yes,Single Family House,Rent my home,No,No,Yes,No,No,Yes,0,Less than High School,Less than High School,,"Employed Full-Time,Employed Part-Time",Food stamps
+3254,2022-05-09,2º,vbryant,Female,United States of America,5,Other,Yes,Single Family House,Own my home,No,No,No,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,12189,Employed Full-Time,"WIC,Food stamps"
+31621,2021-11-09,1º,nanderson,Female,Mexico,4,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,23000,Employed Full-Time,WIC
+31621,2022-05-05,2º,nanderson,Female,Mexico,4,Other,Yes,Trailer/Mobile Home,Rent my home,No,No,Yes,No,No,Yes,1,High School/GED,High School/GED,23000,Employed Full-Time,WIC
+37118,2022-10-07,1º,snguyen,Female,United States of America,4,Other,Yes,Trailer/Mobile Home,Prefer not to say,No,Yes,Yes,No,No,Yes,1,High School/GED,High School/GED,,Employed Full-Time,WIC
+24042,2021-10-20,1º,nanderson,Female,United States of America,4,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,,,,Self-Employed,"Food stamps,WIC"
+24042,2022-05-03,2º,nanderson,Female,United States of America,4,Black or African American,No,Apartment/Condominium,Rent my home,No,No,Yes,No,No,Yes,1,Two-Year College Degree,Two-Year College Degree,,Self-Employed,"Food stamps,WIC"
