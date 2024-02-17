@@ -1,0 +1,165 @@
+---
+title: "Final Project"
+author: "STOR 455"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output: html_document
+---
+
+```{r, echo=F, warning = F}
+#Installs relevant packages and data
+#Only run once then comment out
+# install.packages("tidyverse")
+# install.packages("formattable")
+# install.packages("ggplot2")
+# install.packages("gganimate")
+suppressMessages(library(tidyverse))
+suppressMessages(library(formattable))
+suppressMessages(library(ggplot2))
+suppressMessages(library(gganimate))
+suppressMessages(library(regclass))
+suppressMessages(library(car))
+
+#Indicators tab from telamonData
+Predata1 <- read_csv(url("https://github.com/rmharp/STOR455/raw/main/Indicators%20Data.csv"), show_col_types = F)
+#Families tab from telamonData
+Predata2 <- read_csv(url("https://github.com/rmharp/STOR455/raw/main/Families%20Data.csv"), show_col_types = F)
+#Priorities tab from telamonData - excluded from analysis
+Predata3 <- read_csv(url("https://github.com/rmharp/STOR455/raw/main/Priorities%20Data.csv"), show_col_types = F)
+
+#84 total predictors in both the Indicators and Families tabs
+totalDim <- dim(Predata1) + dim(Predata2)
+
+
+#Subsetting Families tab to remove duplicates
+newDataFamilies = Predata2[!duplicated(Predata2$`Family ID`), ]
+##dim(newDataFamilies)
+
+#Subsetting Indicators tab to remove duplicates
+newDataIndicators = Predata1[!duplicated(Predata1$`Family ID`), ]
+##dim(newDataIndicators)
+
+#Joins Indicators tab to the Families tab and removes the Red, Yellow, and Green variables (indicator sums)
+mergedData = newDataFamilies %>% 
+  left_join(newDataIndicators, by = "Family ID")%>%
+  select(-c(Reds, Yellows, Greens, `Annual income`))
+
+#Drops observations with an NA for the Annual Income variable
+cleanData <-Predata2 %>% drop_na('Annual income')
+
+#Subsetting Families tab to remove duplicates
+cleanData2 <- cleanData[!duplicated(cleanData$'Family ID'), ] %>%
+  select("Family ID", "Annual income")
+
+##view(cleanData2)
+finalData1 <- merge(cleanData2, mergedData, by = c("Family ID"), all = T)
+
+#Cleaned data set to be used for creating tables
+finalData <- separate(data = finalData1, sep = "[,]", col = Race, into = c('Race', 'Race2', 'Race3', 'Race4'))
+#Removes inccorectly named Familiy ID repeats
+finalData <- finalData[-c(72,189,190,219,220),]
+sortedIdx <- order(as.numeric(finalData$`Family ID`))
+finalData <- finalData[sortedIdx, ]
+finalData <- finalData %>%
+  select(-c("Created at.x", "Survey number.x", "Worker", "Created at.y", "Survey number.y"))
+dim(Predata2)[1]
+dim(finalData)[1]
+as.integer(dim(Predata2)[1]) - as.integer(dim(finalData)[1])
+```
+Poverty, a complex and pervasive socio-economic issue, has far-reaching consequences on individuals, families, and entire communities, perpetuating cycles of disadvantage and inequality. Understanding and addressing the root causes of poverty are critical steps towards creating a more equitable and sustainable world.
+
+In my capacity as a research assistant, I collaborated with the Social Innovation and Entrepreneurship (SiE) Lab to conduct a research project. The SiE Lab, with its network of research faculty, data analysts, and subject matter experts, offers consulting services to nonprofits and social enterprises through the Community Aspirations Hub. At the heart of this initiative is a technology-based self-assessment tool called Aspire, designed to evaluate well-being across six dimensions using 55 indicators aligned with the social determinants of health. Aspire empowers participants to identify strengths, needs, and priorities for growth, thereby facilitating the creation of personalized action plans. Complementing this process, participants receive support from dedicated Aspire coaches.
+
+Ensuring the reliability and validity of our research findings required an extensive data cleaning process. I diligently addressed missing values, outliers, and inconsistencies in the dataset to enhance data accuracy and quality.
+
+This research paper aimed to answer the fundamental questions on whether indicators exhibit a predictive power for annual income. By exploring the significance of specific indicators in relation to income levels, this analysis provides valuable insights for participants and coaches to prioritize areas for improvement. It is essential to acknowledge the potential contextual variations across locations, as the results may differ accordingly.
+
+Ultimately, this research contributes to a broader understanding of poverty and its multifaceted impact on different segments of society. By addressing the intricacies of poverty's effects, I aim to inform targeted interventions and policies that can foster a more inclusive and just society. The findings from this research endeavor have the potential to shape future initiatives and approaches to combat poverty and its associated challenges.
+
+```{r, echo = F}
+#Run VIF check to check for collinearity
+#Are certain indicators within an individuals Health and Environment more significant as predictors of an individuals Annual income.
+# If you have a high level of collinearity within a handful of the predictors talk to Andy about Ridge and Lasso to deal with the collinearity. This will allow you to keep the predictors in the middle without removing them.
+missingRows <- is.na(finalData$`Annual income`)
+finalDataClean <- finalData[!missingRows, ]
+mod3 <- lm(`Annual income` ~ factor(Savings) + factor(Credit) + factor(`Bank services`) +
+           factor(Debt) + factor(Budget) + factor(`Employability Readiness`) + factor(`Stable Income`) +
+           factor(Identification) + factor(Environment) + factor(Garbage) + factor(Water) + factor(`Health services`) +
+           factor(`Health services`) + factor(`Mental health services`) + factor(`Nutritious diet`) + factor(`Food access`) +
+           factor(Addiction) + factor(Hygiene) + factor(`Sexual health`) + factor(`Healthy teeth`) + factor(`Healthy vision`) +
+           factor(Vaccines) + factor(Insurance) + factor(`Stable Housing`) + factor(`Safe house`) + factor(`Enough space`) +
+           factor(Kitchen) + factor(Bathroom) + factor(Appliances) + factor(Phone) + factor(Clothing) + factor(Safety) +
+           factor(`Security of property`) + factor(Electricity) + factor(Transportation) + factor(Schooling) + factor(Literacy) +
+           factor(Incarceration) + factor(`Generate income`) + factor(Internet) + factor(Entertainment) + factor(Discrimination) +
+           factor(Community) + factor(`Close relationships`) + factor(`Civic Engagement`) + factor(`Resolve problems`) +
+           factor(`Self-Efficacy`) + factor(`Self-Confidence`) + factor(`Emotional Well-Being`) + factor(`Emotional Intelligence`) +
+           factor(`Spiritual Well-Being`) + factor(Agency) + factor(`Continuous Learning`) + factor(`Physical Activity`) +            factor(`Household violence`), 
+           data = finalDataClean)
+
+plot(finalDataClean$`Annual income`, fitted(mod3), main = "Actual vs. Predicted Values", xlab = "Actual Values", ylab = "Predicted Values", col = "blue")
+summary(mod3)$r.squared
+
+finalDataClean1 <- filter(finalDataClean, `Annual income` <= 100000)
+mod4 <- lm(`Annual income` ~ factor(Savings) + factor(Credit) + factor(`Bank services`) +
+           factor(Debt) + factor(Budget) + factor(`Employability Readiness`) + factor(`Stable Income`) +
+           factor(Identification) + factor(Environment) + factor(Garbage) + factor(Water) + factor(`Health services`) +
+           factor(`Health services`) + factor(`Mental health services`) + factor(`Nutritious diet`) + factor(`Food access`) +
+           factor(Addiction) + factor(Hygiene) + factor(`Sexual health`) + factor(`Healthy teeth`) + factor(`Healthy vision`) +
+           factor(Vaccines) + factor(Insurance) + factor(`Stable Housing`) + factor(`Safe house`) + factor(`Enough space`) +
+           factor(Kitchen) + factor(Bathroom) + factor(Appliances) + factor(Phone) + factor(Clothing) + factor(Safety) +
+           factor(`Security of property`) + factor(Electricity) + factor(Transportation) + factor(Schooling) + factor(Literacy) +
+           factor(Incarceration) + factor(`Generate income`) + factor(Internet) + factor(Entertainment) + factor(Discrimination) +
+           factor(Community) + factor(`Close relationships`) + factor(`Civic Engagement`) + factor(`Resolve problems`) +
+           factor(`Self-Efficacy`) + factor(`Self-Confidence`) + factor(`Emotional Well-Being`) + factor(`Emotional Intelligence`) +
+           factor(`Spiritual Well-Being`) + factor(Agency) + factor(`Continuous Learning`) + factor(`Physical Activity`) +            factor(`Household violence`), 
+           data = finalDataClean1)
+
+plot(finalDataClean1$`Annual income`, fitted(mod4), main = "Actual vs. Predicted Values", xlab = "Actual Values", ylab = "Predicted Values", col = "blue")
+summary(mod4)$r.squared
+
+finalDataClean2 <- filter(finalDataClean1, `Annual income` > 0)
+mod5 <- lm(`Annual income` ~ factor(Savings) + factor(Credit) + factor(`Bank services`) +
+           factor(Debt) + factor(Budget) + factor(`Employability Readiness`) + factor(`Stable Income`) +
+           factor(Identification) + factor(Environment) + factor(Garbage) + factor(Water) + factor(`Health services`) +
+           factor(`Health services`) + factor(`Mental health services`) + factor(`Nutritious diet`) + factor(`Food access`) +
+           factor(Addiction) + factor(Hygiene) + factor(`Sexual health`) + factor(`Healthy teeth`) + factor(`Healthy vision`) +
+           factor(Vaccines) + factor(Insurance) + factor(`Stable Housing`) + factor(`Safe house`) + factor(`Enough space`) +
+           factor(Kitchen) + factor(Bathroom) + factor(Appliances) + factor(Phone) + factor(Clothing) + factor(Safety) +
+           factor(`Security of property`) + factor(Electricity) + factor(Transportation) + factor(Schooling) + factor(Literacy) +
+           factor(Incarceration) + factor(`Generate income`) + factor(Internet) + factor(Entertainment) + factor(Discrimination) +
+           factor(Community) + factor(`Close relationships`) + factor(`Civic Engagement`) + factor(`Resolve problems`) +
+           factor(`Self-Efficacy`) + factor(`Self-Confidence`) + factor(`Emotional Well-Being`) + factor(`Emotional Intelligence`) +
+           factor(`Spiritual Well-Being`) + factor(Agency) + factor(`Continuous Learning`) + factor(`Physical Activity`) +            factor(`Household violence`), 
+           data = finalDataClean2)
+
+plot(finalDataClean2$`Annual income`, fitted(mod5), main = "Actual vs. Predicted Values", xlab = "Actual Values", ylab = "Predicted Values", col = "blue")
+summary(mod5)$r.squared
+
+mod5Simp <- step(mod5, trace = 0)
+
+plot(finalDataClean2$`Annual income`, fitted(mod5Simp), main = "Actual vs. Predicted Values", xlab = "Actual Values", ylab = "Predicted Values", col = "blue")
+summary(mod5Simp)$r.squared
+#VIF can't be run due to perfectly correctalted variables
+alias_info <- alias(mod5Simp)
+
+
+MSE = (summary(mod5)$sigma)^2
+none = lm(`Annual income` ~ 1, data = finalDataClean2)
+stepwisemod <- step(none, scope = list(upper = mod5), scale = MSE, trace = 0)
+
+plot(finalDataClean2$`Annual income`, fitted(stepwisemod), main = "Actual vs. Predicted Values", xlab = "Actual Values", ylab = "Predicted Values", col = "blue")
+summary(stepwisemod)$r.squared
+```
+As a research assistant at the SiE Lab, I collected the Aspire data, which is generally geocoded and allows analysis at the neighborhood and community level. The data was obtained through our partner organization, Telamon, a nonprofit dedicated to empowering families to break the cycle of poverty and achieve success. For my study, I focused on a hyperlocal data set, specifically individuals located in Cabarrus County with at least one child aged five or younger. This allowed me to explore the well-being of families in this specific region, gaining insights into their challenges and potential opportunities. While any conclusions drawn from this data should not be generalized to the entire population, they are representative of the sample I analyzed, which comprises a diverse subset of individuals with variations in race, gender, and income. This analysis provides valuable insights into individuals in Cabarrus County, and the methods I used can be replicated by others seeking to perform hyperlocal analysis on different subsets of the overall population. By focusing on hyperlocal data, I aimed to highlight the unique aspects of this community and explore how interventions and policies can be tailored to address their specific needs effectively.
+
+The poverty stoplight project, while my data was hyperlocal, is an international endeavor aimed at empowering families to discover practical and innovative solutions to improve their lives comprehensively. It is currently being implemented in over forty-seven countries through fifteen hubs, with over four hundred organizational partners contributing to the creation of over two hundred and twenty thousand stoplights worldwide. This global reach underscores the significance of the project in tackling poverty on a large scale and fostering sustainable development. By studying a hyperlocal context like Cabarrus County within the broader framework of the poverty stoplight project, I sought to draw connections between local challenges and global efforts. Understanding how local interventions align with the project's international mission can lead to valuable insights and potentially inspire collaborations and knowledge sharing between communities facing similar issues. As my analysis contributes to the growing body of knowledge on the poverty stoplight project's impact, it also serves as a testament to the project's potential for positive change on a global scale.
+
+
+In addition to the 55 indicators of well-being, I focused on four primary variables to address my research questions. Given that my data predominantly pertained to families in poverty, one of the most critical variables was "Annual Income." This variable serves as a key measure of economic well-being and provides essential insights into the financial stability of families. Analyzing the distribution of annual income among families in Cabarrus County enabled me to identify income disparities and potential trends related to poverty. Additionally, I explored the relationship between annual income and other variables, such as race, gender, and housing situation, to understand how different factors intersect and contribute to overall well-being. By examining these variables collectively, I aimed to uncover complex patterns and nuances that could inform targeted interventions to uplift economically disadvantaged families in the region.
+
+I used three different linear models and plotted their attempts to predict income using indicators from the data. However, this approach did not yield effective results, as the highest R^2 value was 0.587. The limitations of these models highlight the intricate nature of the relationship between well-being indicators and income. While linear models offer a valuable starting point, they may not fully capture the complexity and multidimensionality of poverty dynamics. As I delved deeper into the analysis, I recognized the need for more sophisticated modeling techniques and potentially the incorporation of additional variables that influence income. In the appendix, I provide further details on my initial attempts with the linear models and the insights gained from this process. The quest to improve predictive accuracy and understand the determinants of income remains an ongoing pursuit for myself and others.
+
+I found that the indicators meant to be used as indicators of poverty cannot be used to predict poverty. In fact, I explored many different models utilizing different subsets of the best performing indicators to predict poverty and discovered that an empty model containing no indicators would perform better at predicting poverty than any of the indicators measured in the self-evaluated survey.
+
+Although my results were not as strong as I may have initially hoped. In the real world, my methods of analyzing the data could be used internationally by any of the over four hundred poverty stoplight partners to analyze their hyperlocal location. I would expect their results to differ from my own but to represent the indicators within this location which are most predictive of annual income and the races which are most negatively impacted by living conditions. As population size of race and racial prejudice tend to differ in different parts of the world, I would expect these results to differ significantly from my own.
+
+Another area for improvement within my own data analysis and within future analysis utilizing these methods would be to collect a much larger sample size. A pitfall of my data shortage can be seen particularly within the Asian subset where, after cleaning the data, I had no observations which also had an observed annual income. This was an entire subset of the population which had no findings in the end result and, therefore, weakened the conclusion. Also, there is a potential for KNN or a similar ML implementation that could find a model which is better fit to the data.
